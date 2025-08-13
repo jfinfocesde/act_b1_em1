@@ -17,10 +17,10 @@ cd act_b1_em1
 Antes de comenzar, completa tus datos en el archivo `info.json`:
 ```json
 {
-    "identificacion": "TU_NUMERO_DE_IDENTIFICACION",
-    "nombres": "TUS_NOMBRES",
-    "apellidos": "TUS_APELLIDOS",
-    "grupo": "b1-martes"
+    "identificacion": "1035856419",
+    "nombres": "Johan",
+    "apellidos": "Cadavid Mendoza",
+    "grupo": "Aplicación para moviles I"
 }
 ```
 ## Actividades a realizar
