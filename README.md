@@ -17,9 +17,9 @@ cd act_b1_em1
 Antes de comenzar, completa tus datos en el archivo `info.json`:
 ```json
 {
-    "identificacion": "TU_NUMERO_DE_IDENTIFICACION",
-    "nombres": "TUS_NOMBRES",
-    "apellidos": "TUS_APELLIDOS",
+    "identificacion": "1038869598",
+    "nombres": "Santiago",
+    "apellidos": "Bohorquez Saldaña",
     "grupo": "b1-martes"
 }
 ```
