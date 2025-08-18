@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 9186
+/Length 9265
 >>
 stream
 0.5670000000000001 w
@@ -48,7 +48,7 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 18/8/2025, 9:58:50) Tj
+(Fecha de evaluación: 18/8/2025, 10:01:35) Tj
 ET
 BT
 /F1 10 Tf
@@ -415,8 +415,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 295.9179527559056169 Td
-(La solución cumple con los requisitos. Se recomienda utilizar excepciones en lugar de imprimir mensajes en los) Tj
-T* (setters para un manejo de errores más robusto.) Tj
+(La solución es correcta y funcional. Se recomienda manejar las validaciones de edad y promedio lanzando) Tj
+T* (excepciones en lugar de imprimir en consola.) Tj
 ET
 BT
 /F2 10 Tf
@@ -458,8 +458,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 181.8982677165356563 Td
-(La implementación de getters y setters es correcta, así como el constructor completo. El segundo constructor) Tj
-T* (asigna valores fijos en lugar de usar los parámetros. Faltan los métodos `aplicarDescuento`.) Tj
+(La implementación de getters y setters es correcta, y el constructor con precio 0.0 está casi bien, pero asigna los) Tj
+T* (valores literales "titulo" y "autor" en lugar de usar los parámetros. Faltan los métodos `aplicarDescuento`.) Tj
 ET
 BT
 /F2 10 Tf
@@ -501,8 +501,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 67.878582677165582 Td
-(La actividad cumple con la mayoría de los requisitos.  Falta aplicar los descuentos a los libros y mostrar la) Tj
-T* (información actualizada después de aplicarlos.) Tj
+(La actividad cumple con la mayoría de los requisitos, pero falta aplicar los descuentos a los libros y mostrar la) Tj
+T* (información actualizada. Considera agregar manejo de excepciones y validaciones para robustecer el código.) Tj
 ET
 BT
 /F1 8 Tf
@@ -750,7 +750,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250818095850-05'00')
+/CreationDate (D:20250818100135-05'00')
 >>
 endobj
 22 0 obj
@@ -764,35 +764,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000010433 00000 n 
-0000012258 00000 n 
+0000010512 00000 n 
+0000012337 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009390 00000 n 
-0000009527 00000 n 
-0000010496 00000 n 
-0000010621 00000 n 
-0000010751 00000 n 
-0000010884 00000 n 
-0000011022 00000 n 
-0000011146 00000 n 
-0000011275 00000 n 
-0000011407 00000 n 
-0000011543 00000 n 
-0000011671 00000 n 
-0000011798 00000 n 
-0000011927 00000 n 
-0000012060 00000 n 
-0000012162 00000 n 
-0000012508 00000 n 
-0000012594 00000 n 
+0000009469 00000 n 
+0000009606 00000 n 
+0000010575 00000 n 
+0000010700 00000 n 
+0000010830 00000 n 
+0000010963 00000 n 
+0000011101 00000 n 
+0000011225 00000 n 
+0000011354 00000 n 
+0000011486 00000 n 
+0000011622 00000 n 
+0000011750 00000 n 
+0000011877 00000 n 
+0000012006 00000 n 
+0000012139 00000 n 
+0000012241 00000 n 
+0000012587 00000 n 
+0000012673 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <9E05A2313DE3D9904EB925DA80849511> <9E05A2313DE3D9904EB925DA80849511> ]
+/ID [ <F89214838E1E0C2C85A037E1CB82F5B6> <F89214838E1E0C2C85A037E1CB82F5B6> ]
 >>
 startxref
-12698
+12777
 %%EOF
