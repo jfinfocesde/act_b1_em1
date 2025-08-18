@@ -142,5 +142,41 @@
     ],
     "evaluatedAt": "2025-08-18T15:14:01.068Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
+  },
+  "zamu5555/act_b1_em1": {
+    "repositoryUrl": "zamu5555/act_b1_em1",
+    "studentName": "Samuel Diaz Vanegas",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es correcta y completa, cumpliendo con todos los requisitos. Se podrían mejorar los mensajes de error en los setters para proporcionar información más útil, y el setter de promedio debería incluir el 10.0 como valor válido."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es funcional y completa, cumpliendo con los requerimientos. Podrías considerar usar excepciones en lugar de imprimir a consola en `setPrecio` y formatear la salida de los descuentos."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente trabajo! El código cumple con todos los requisitos y está bien estructurado. Buen uso de los métodos y constructores."
+      }
+    ],
+    "overallScore": 4.333333333333333,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-18T15:14:17.860Z",
+    "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
