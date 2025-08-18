@@ -107,42 +107,40 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "amgallego/act_b1_em1": {
-    "repositoryUrl": "amgallego/act_b1_em1",
-    "studentName": "sharon saray asprilla cordoba",
+  "killmyselff/act_b1_em1": {
+    "repositoryUrl": "killmyselff/act_b1_em1",
+    "studentName": "Juan Diego Cano Galeano",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 3,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La implementación de getters y setters es correcta, así como la del constructor y el método mostrarInformacion. Sin embargo, las validaciones en los setters de edad y promedio están invertidas, deberían asignar el valor si la condición se cumple, no lanzar una excepción."
+        "feedback": "¡Excelente trabajo! El código cumple con todos los requisitos, incluyendo las validaciones en los setters y la correcta implementación de los métodos getter y setter. Bien hecho."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 2,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La implementación de los constructores es incorrecta, no inicializan los atributos con los valores recibidos. Además, la validación del precio en el setter es incorrecta (debería ser precio < 0). Falta implementar los métodos de descuento y mostrar información."
+        "feedback": "La solución es completa y correcta, cumpliendo con todos los requisitos especificados. El código es limpio, bien estructurado y aplica buenas prácticas como la validación de entradas."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. Falta la implementación de la lógica solicitada en los comentarios dentro del método main para crear objetos Estudiante y Libro, manipularlos y mostrar la información correspondiente."
+        "feedback": "La solución resuelve correctamente la actividad. Se podrían mejorar las buenas prácticas encapsulando la lógica en métodos y evitar la duplicación de código en las llamadas a `mostrarInformacion()`."
       }
     ],
-    "overallScore": 2,
+    "overallScore": 4.666666666666667,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Necesita mejorar. Completó 3/3 actividades (100%) con una calificación promedio de 2.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:11:25.899Z",
+    "evaluatedAt": "2025-08-18T15:11:42.483Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
