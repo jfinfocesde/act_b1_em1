@@ -107,30 +107,30 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "Brimontoya568/act_b1_em1": {
-    "repositoryUrl": "Brimontoya568/act_b1_em1",
-    "studentName": "Britany Montoya",
+  "anderson0188/act_b1_em1": {
+    "repositoryUrl": "anderson0188/act_b1_em1",
+    "studentName": "Anderson Vanegas Jaramillo",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código cumple con las indicaciones, incluyendo validaciones en los setters y la función mostrarInformacion. Buen trabajo."
+        "feedback": "La solución es correcta, completa y sigue las indicaciones. El código está bien estructurado y cumple con las validaciones requeridas en los setters."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código está bien estructurado, implementa buenas prácticas (atributos privados, getters/setters) y cumple con todos los requisitos especificados en los comentarios."
+        "feedback": "Excelente trabajo. El código cumple con todos los requerimientos, es legible y utiliza buenas prácticas. La validación del precio y el manejo de descuentos son correctos."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución cumple con todos los requisitos de la actividad. El código es claro, bien estructurado y demuestra una buena comprensión de los conceptos de POO."
+        "feedback": "La actividad se resolvió correctamente, cumpliendo con todos los requerimientos. El código es claro y bien estructurado."
       }
     ],
     "overallScore": 5,
@@ -140,7 +140,7 @@
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:12:17.188Z",
+    "evaluatedAt": "2025-08-18T15:12:33.851Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
