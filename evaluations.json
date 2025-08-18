@@ -180,5 +180,41 @@
     ],
     "evaluatedAt": "2025-08-18T14:32:06.209Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "luisayepez567/act_b1_em1": {
+    "repositoryUrl": "luisayepez567/act_b1_em1",
+    "studentName": "Luisa Fernanda Yepez Ramirez",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es completa y correcta. Implementa todos los requisitos solicitados, incluyendo validaciones en los setters y un método para mostrar la información del estudiante. Buen trabajo."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y completa. El código sigue las buenas prácticas de la programación orientada a objetos, con validaciones adecuadas y constructores sobrecargados."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución cumple con todos los requisitos de la actividad. El código es claro, bien estructurado y funcional."
+      }
+    ],
+    "overallScore": 5,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-18T14:39:46.463Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
