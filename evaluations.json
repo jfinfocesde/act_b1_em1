@@ -71,42 +71,40 @@
     "evaluatedAt": "2025-08-18T14:05:43.530Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "SantiagoZVcesde/act_b1_em1": {
-    "repositoryUrl": "SantiagoZVcesde/act_b1_em1",
+  "johanc178/act_b1_em1": {
+    "repositoryUrl": "johanc178/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 0,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La clase Estudiante está incompleta. No se definieron los atributos, constructor ni métodos getter/setter, por lo que no cumple con los requerimientos de la actividad."
+        "feedback": "La solución cumple con todos los requisitos. El código es limpio, bien estructurado y validaciones correctas en los setters y constructor."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El archivo solo contiene la estructura de la clase y los comentarios TODO, pero no hay ninguna implementación de los atributos, constructores o métodos requeridos. Falta completar toda la lógica del programa."
+        "feedback": "La solución es completa y correcta, cumpliendo con todos los requerimientos. El código es legible y bien estructurado, implementando buenas prácticas como la validación del precio."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La actividad no se ha resuelto. Falta implementar la lógica dentro del método main para crear los objetos Estudiante y Libro, manipular sus atributos y mostrar la información solicitada."
+        "feedback": "La solución es correcta y cumple con todos los requisitos de la actividad. El código es legible y bien estructurado."
       }
     ],
-    "overallScore": 0.6666666666666666,
+    "overallScore": 5,
     "totalActivities": 3,
-    "completedActivities": 2,
-    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T14:09:35.196Z",
+    "evaluatedAt": "2025-08-18T14:09:51.968Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
