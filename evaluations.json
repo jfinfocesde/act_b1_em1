@@ -8,32 +8,32 @@
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "¡Excelente trabajo! El código cumple con todos los requisitos, incluyendo validaciones en los setters y la implementación del método mostrarInformacion."
+        "feedback": "La solución es correcta y completa. El código es limpio, bien estructurado y cumple con todas las indicaciones, incluyendo las validaciones en los setters y la implementación de los métodos getter y mostrarInformacion."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 0,
-        "fileFound": false,
-        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.0-flash\",\"location\":\"global\"},\"quotaValue\":\"200\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"17s\"}]}}"
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código cumple con todos los requerimientos, es legible, bien estructurado y las validaciones están implementadas correctamente. ¡Buen trabajo!"
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad se completó correctamente siguiendo las instrucciones. El código es legible y funcional, demostrando un buen entendimiento de los conceptos."
+        "feedback": "La actividad se resuelve correctamente y el código es funcional. Se recomienda mejorar la legibilidad utilizando nombres de variables más descriptivos y considerar el uso de constantes para valores fijos."
       }
     ],
-    "overallScore": 3.3333333333333335,
+    "overallScore": 4.666666666666667,
     "totalActivities": 3,
-    "completedActivities": 2,
-    "summary": "Buen trabajo general. Completó 2/3 actividades (67%) con una calificación promedio de 3.3/5. Hay oportunidades de mejora en algunos aspectos.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Completar los archivos faltantes: src/main/java/com/example/Libro.java"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:35:48.685Z",
-    "evaluatedBy": "Sistema de Evaluación Masiva"
+    "evaluatedAt": "2025-08-18T14:50:44.750Z",
+    "evaluatedBy": "Sistema de Evaluación"
   },
   "sharon-Asprilla/act_b1_em1": {
     "repositoryUrl": "sharon-Asprilla/act_b1_em1",
@@ -44,32 +44,34 @@
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Se recomienda manejar las validaciones de edad y promedio lanzando excepciones en lugar de imprimir en consola."
+        "feedback": "La solución es correcta y cumple con los requisitos. Se podrían mejorar los mensajes de error en los setters para lanzar excepciones en lugar de imprimir en consola, permitiendo un mejor manejo de errores."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 3,
-        "fileFound": true,
-        "feedback": "La implementación de getters y setters es correcta, y el constructor con precio 0.0 está casi bien, pero asigna los valores literales \"titulo\" y \"autor\" en lugar de usar los parámetros. Faltan los métodos `aplicarDescuento`."
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.0-flash\"},\"quotaValue\":\"200\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"2s\"}]}}"
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "La actividad cumple con la mayoría de los requisitos, pero falta aplicar los descuentos a los libros y mostrar la información actualizada. Considera agregar manejo de excepciones y validaciones para robustecer el código."
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.0-flash\"},\"quotaValue\":\"200\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"56s\"}]}}"
       }
     ],
-    "overallScore": 3.6666666666666665,
+    "overallScore": 1.3333333333333333,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Buen trabajo general. Completó 3/3 actividades (100%) con una calificación promedio de 3.7/5. Hay oportunidades de mejora en algunos aspectos.",
+    "completedActivities": 1,
+    "summary": "Necesita mejorar. Completó 1/3 actividades (33%) con una calificación promedio de 1.3/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Completar los archivos faltantes: src/main/java/com/example/Libro.java, src/main/java/com/example/Main.java",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T15:01:34.715Z",
-    "evaluatedBy": "Sistema de Evaluación"
+    "evaluatedAt": "2025-08-18T15:36:02.910Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   },
   "kevinn-9/act_b1_em1": {
     "repositoryUrl": "kevinn-9/act_b1_em1",
