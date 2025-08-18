@@ -71,43 +71,40 @@
     "evaluatedAt": "2025-08-18T14:05:43.530Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "brandom123155/act_b1_em1": {
-    "repositoryUrl": "brandom123155/act_b1_em1",
+  "Elgrinch001/act_b1_em1": {
+    "repositoryUrl": "Elgrinch001/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 0,
-        "fileFound": false,
-        "feedback": "Error al evaluar: got status: 503 . {\"error\":{\"code\":503,\"message\":\"The model is overloaded. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución cumple con todos los requisitos de la actividad. El código es limpio, bien estructurado y funcional. Excelente implementación de getters/setters con validación."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El archivo solo contiene la estructura de la clase Libro con comentarios TODO. Falta la implementación de los atributos, constructores, getters, setters y métodos solicitados."
+        "feedback": "La solución cumple con todos los requisitos especificados y presenta un código limpio y bien estructurado. Se aplican buenas prácticas como la validación del precio en el setter."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. El archivo Main.java solo contiene la estructura base sin implementar la lógica solicitada para la creación de objetos Estudiante y Libro, ni para la manipulación de sus atributos y métodos."
+        "feedback": "La solución es correcta y completa, cumpliendo con todos los requisitos de la actividad. El código es legible y bien estructurado."
       }
     ],
-    "overallScore": 0.6666666666666666,
+    "overallScore": 5,
     "totalActivities": 3,
-    "completedActivities": 2,
-    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Completar los archivos faltantes: src/main/java/com/example/Estudiante.java",
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T14:07:10.624Z",
+    "evaluatedAt": "2025-08-18T14:07:28.141Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
