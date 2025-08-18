@@ -6,33 +6,35 @@
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código es claro, bien estructurado y sigue las buenas prácticas, incluyendo la validación en los setters de edad y promedio."
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.0-flash\"},\"quotaValue\":\"200\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"54s\"}]}}"
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "Excelente trabajo. El código resuelve correctamente la actividad, es legible y sigue las buenas prácticas. La validación del precio y los descuentos están bien implementados."
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.0-flash\",\"location\":\"global\"},\"quotaValue\":\"200\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"48s\"}]}}"
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "Excelente trabajo. El código cumple con todos los requisitos de la actividad y es fácil de leer. Buen uso de setters y métodos para aplicar descuentos."
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.0-flash\"},\"quotaValue\":\"200\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"43s\"}]}}"
       }
     ],
-    "overallScore": 5,
+    "overallScore": 0,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 0,
+    "summary": "Necesita mejorar. Completó 0/3 actividades (0%) con una calificación promedio de 0.0/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Completar los archivos faltantes: src/main/java/com/example/Estudiante.java, src/main/java/com/example/Libro.java, src/main/java/com/example/Main.java",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T16:35:09.505Z",
+    "evaluatedAt": "2025-08-18T15:48:16.245Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
   "sharon-Asprilla/act_b1_em1": {
@@ -44,32 +46,34 @@
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Se recomienda manejar las validaciones de edad y promedio lanzando excepciones en lugar de imprimir en consola."
+        "feedback": "La solución es correcta y funcional, cumple con los requerimientos.  Se recomienda usar excepciones en lugar de `System.out.println` en los setters para el manejo de errores."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
         "score": 3,
         "fileFound": true,
-        "feedback": "La implementación de getters y setters es correcta, y el constructor con precio 0.0 está casi bien, pero asigna los valores literales \"titulo\" y \"autor\" en lugar de usar los parámetros. Faltan los métodos `aplicarDescuento`."
+        "feedback": "El código implementa los atributos, constructores y getters/setters correctamente. Sin embargo, el segundo constructor asigna valores fijos, lo cual es incorrecto. Faltan los métodos de descuento."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La actividad cumple con la mayoría de los requisitos, pero falta aplicar los descuentos a los libros y mostrar la información actualizada. Considera agregar manejo de excepciones y validaciones para robustecer el código."
+        "feedback": "Error al procesar la evaluación"
       }
     ],
-    "overallScore": 3.6666666666666665,
+    "overallScore": 2.3333333333333335,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Buen trabajo general. Completó 3/3 actividades (100%) con una calificación promedio de 3.7/5. Hay oportunidades de mejora en algunos aspectos.",
+    "completedActivities": 2,
+    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 2.3/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T15:01:34.715Z",
-    "evaluatedBy": "Sistema de Evaluación"
+    "evaluatedAt": "2025-08-18T16:35:26.936Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   },
   "kevinn-9/act_b1_em1": {
     "repositoryUrl": "kevinn-9/act_b1_em1",
