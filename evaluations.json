@@ -143,42 +143,40 @@
     "evaluatedAt": "2025-08-18T15:14:01.068Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "SamuelH1211/act_b1_em1": {
-    "repositoryUrl": "SamuelH1211/act_b1_em1",
+  "Juan2589/act_b1_em1": {
+    "repositoryUrl": "Juan2589/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 0,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El archivo proporcionado solo contiene comentarios TODO, indicando que el estudiante no ha implementado ninguna parte del código solicitado. Necesitas completar la implementación de los atributos, constructor, getters, setters y el método mostrarInformacion."
+        "feedback": "La solución es correcta y funcional, pero se puede mejorar la validación del promedio convirtiéndolo en double y se aconseja lanzar excepciones en lugar de imprimir en consola para manejar mejor los errores. Además, el promedio se debería guardar como double, no como int."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La clase Libro solo contiene los comentarios TODO, no hay ninguna implementación. Falta declarar atributos, constructores, getters, setters y los métodos solicitados."
+        "feedback": "La solución cumple con los requisitos, pero la clase `libro` debería llamarse `Libro` (mayúscula inicial).  Considera agregar validaciones más robustas para los parámetros de entrada."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La clase Main solo contiene el método main vacío. No se ha implementado ninguna de las funcionalidades solicitadas en los comentarios, como la creación de objetos Estudiante y Libro, la manipulación de sus atributos o la aplicación de descuentos."
+        "feedback": "La actividad se resuelve correctamente y cumple con lo solicitado. Se sugiere mejorar la organización del código, separando la lógica de creación y manipulación de objetos en métodos para mayor claridad."
       }
     ],
-    "overallScore": 0.6666666666666666,
+    "overallScore": 4,
     "totalActivities": 3,
-    "completedActivities": 2,
-    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:14:51.749Z",
+    "evaluatedAt": "2025-08-18T15:15:09.166Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
