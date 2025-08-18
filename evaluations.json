@@ -8,32 +8,32 @@
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente trabajo. El código cumple con todos los requisitos, incluyendo validaciones en los setters y la correcta implementación del método mostrarInformacion."
+        "feedback": "La solución es correcta y completa. El código cumple con todas las indicaciones y validaciones requeridas, demostrando buenas prácticas en la implementación de getters y setters."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código cumple con todos los requerimientos y las buenas prácticas. La validación del precio negativo y del porcentaje de descuento es un buen detalle."
+        "feedback": "La solución es correcta, completa y bien estructurada. El código implementa todas las funcionalidades requeridas y aplica buenas prácticas como la validación del precio y porcentaje en los métodos."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código cumple con todos los requisitos especificados en los comentarios y presenta una estructura clara y organizada."
+        "feedback": "La actividad se resuelve correctamente, siguiendo las indicaciones de los comentarios. El código es legible y funcional, demostrando un buen entendimiento de la creación de objetos y el uso de métodos."
       }
     ],
     "overallScore": 5,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Completó 3/3 actividades con una calificación promedio de 5.0/5.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Continuar con el buen trabajo"
     ],
-    "evaluatedAt": "2025-08-18T14:07:44.633Z",
-    "evaluatedBy": "Sistema de Evaluación Masiva"
+    "evaluatedAt": "2025-08-12T15:02:45.998Z",
+    "evaluatedBy": "Sistema de Evaluación"
   },
   "killmyselff/act_b1_em1": {
     "repositoryUrl": "killmyselff/act_b1_em1",
@@ -69,6 +69,42 @@
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
     "evaluatedAt": "2025-08-18T14:05:43.530Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "Manin611/act_b1_em1": {
+    "repositoryUrl": "Manin611/act_b1_em1",
+    "studentName": "Samuel Ceballos Gonzalez",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y completa. El código está bien estructurado e incluye validaciones en los setters, lo que demuestra buenas prácticas."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución cumple con los requisitos, pero se podría mejorar la validación en los setters y constructores lanzando excepciones en lugar de asignar valores por defecto. Considerar la inmutabilidad de los atributos siempre que sea posible."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La actividad se resuelve correctamente, cumpliendo con todos los requisitos especificados en los comentarios. El código es legible y bien estructurado."
+      }
+    ],
+    "overallScore": 4.666666666666667,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-18T14:08:03.778Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
