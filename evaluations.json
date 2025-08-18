@@ -71,40 +71,40 @@
     "evaluatedAt": "2025-08-18T14:05:43.530Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "Manin611/act_b1_em1": {
-    "repositoryUrl": "Manin611/act_b1_em1",
-    "studentName": "Samuel Ceballos Gonzalez",
+  "zamu5555/act_b1_em1": {
+    "repositoryUrl": "zamu5555/act_b1_em1",
+    "studentName": "Samuel Diaz Vanegas",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código está bien estructurado e incluye validaciones en los setters, lo que demuestra buenas prácticas."
+        "feedback": "La solución es correcta y funcional. Podrías mejorar la validación en los setters lanzando excepciones en lugar de imprimir mensajes por consola, para un mejor manejo de errores."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución cumple con los requisitos, pero se podría mejorar la validación en los setters y constructores lanzando excepciones en lugar de asignar valores por defecto. Considerar la inmutabilidad de los atributos siempre que sea posible."
+        "feedback": "La solución es correcta y funcional, cumpliendo con los requisitos. Se sugiere evitar imprimir directamente en los métodos de lógica (descuentos) y retornar valores para mejorar la flexibilidad del código. Considerar usar una excepción en lugar de un print en el setter de precio."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La actividad se resuelve correctamente, cumpliendo con todos los requisitos especificados en los comentarios. El código es legible y bien estructurado."
+        "feedback": "La solución cumple con todos los requisitos y las indicaciones proporcionadas. El código es claro, conciso y bien estructurado, demostrando un buen entendimiento de los conceptos."
       }
     ],
-    "overallScore": 4.666666666666667,
+    "overallScore": 4.333333333333333,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T14:08:03.778Z",
+    "evaluatedAt": "2025-08-18T14:08:21.452Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
