@@ -35,40 +35,40 @@
     "evaluatedAt": "2025-08-12T15:02:45.998Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "kevinn-9/act_b1_em1": {
-    "repositoryUrl": "kevinn-9/act_b1_em1",
-    "studentName": "kevin velez barrera",
+  "YTEJADAG/act_b1_em1": {
+    "repositoryUrl": "YTEJADAG/act_b1_em1",
+    "studentName": "Yesenia Tejada Garcia",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad se resolvió correctamente y el código cumple con todos los requisitos, incluyendo validaciones en los setters. Buen trabajo!"
+        "feedback": "La implementación es correcta, pero falta cerrar la llave del `else` en `setedad` y concatenar correctamente en `mostrarInformacion` (faltan espacios). Considera usar `System.err.println` para los errores."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "Excelente trabajo. El código cumple con todos los requerimientos de manera correcta y organizada. Considera agregar validaciones de entrada en los setters para una mayor robustez."
+        "feedback": "La implementación es correcta y cumple con los requisitos. Sin embargo, hay un error tipográfico en el getter de `titulo` (usa `nombre` en lugar de `titulo`) y se podría mejorar la validación del porcentaje en los métodos de descuento (permitir 100%, o usar <= en lugar de <). "
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La actividad se resuelve correctamente, cumpliendo con todos los requisitos. El código es limpio y bien estructurado, demostrando buenas prácticas."
+        "feedback": "La solución cumple con todos los requisitos planteados. El código es legible y la estructura es correcta. ¡Excelente trabajo!"
       }
     ],
-    "overallScore": 5,
+    "overallScore": 4.333333333333333,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T14:03:23.403Z",
+    "evaluatedAt": "2025-08-18T14:03:41.434Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
