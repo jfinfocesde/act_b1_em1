@@ -143,40 +143,43 @@
     "evaluatedAt": "2025-08-18T15:14:01.068Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "Juan2589/act_b1_em1": {
-    "repositoryUrl": "Juan2589/act_b1_em1",
+  "SantiagoZVcesde/act_b1_em1": {
+    "repositoryUrl": "SantiagoZVcesde/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional, pero se puede mejorar la validación del promedio convirtiéndolo en double y se aconseja lanzar excepciones en lugar de imprimir en consola para manejar mejor los errores. Además, el promedio se debería guardar como double, no como int."
+        "feedback": "La clase Estudiante solo contiene comentarios TODO y no implementa ninguna funcionalidad. No se declaran atributos, constructor ni métodos, por lo que la actividad no está resuelta."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución cumple con los requisitos, pero la clase `libro` debería llamarse `Libro` (mayúscula inicial).  Considera agregar validaciones más robustas para los parámetros de entrada."
+        "feedback": "La clase Libro está incompleta. Faltan la declaración de atributos, los constructores y los métodos getter, setter y de descuento. Se debe implementar la lógica completa de la clase según lo indicado en los comentarios TODO."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 4,
-        "fileFound": true,
-        "feedback": "La actividad se resuelve correctamente y cumple con lo solicitado. Se sugiere mejorar la organización del código, separando la lógica de creación y manipulación de objetos en métodos para mayor claridad."
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 429 . {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"location\":\"global\",\"model\":\"gemini-2.0-flash\"},\"quotaValue\":\"200\"}]},{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"34s\"}]}}"
       }
     ],
-    "overallScore": 4,
+    "overallScore": 0.3333333333333333,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.0/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 1,
+    "summary": "Necesita mejorar. Completó 1/3 actividades (33%) con una calificación promedio de 0.3/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Completar los archivos faltantes: src/main/java/com/example/Main.java",
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T15:15:09.166Z",
+    "evaluatedAt": "2025-08-18T15:15:24.609Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
