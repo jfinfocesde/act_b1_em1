@@ -71,42 +71,40 @@
     "evaluatedAt": "2025-08-18T14:05:43.530Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "SamuelH1211/act_b1_em1": {
-    "repositoryUrl": "SamuelH1211/act_b1_em1",
+  "Juan2589/act_b1_em1": {
+    "repositoryUrl": "Juan2589/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La clase `Estudiante.java` solo contiene comentarios TODO sin implementar la lógica requerida. No se declaran atributos, constructor, getters/setters ni el método mostrarInformacion."
+        "feedback": "La solución cumple con los requisitos, pero se podría mejorar la validación del promedio en el setter (lanzar excepción en lugar de imprimir). Además, convertir el promedio a `int` en el constructor y setter podría llevar a pérdida de precisión."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La clase `Libro.java` solo contiene los comentarios TODO indicando la tarea a realizar, pero no se ha implementado ninguna funcionalidad. Debes completar la clase con los atributos, constructores, métodos getter y setter, lógica de descuento e impresión de información."
+        "feedback": "La solución cumple con la mayoría de los requisitos. Se recomienda validar la entrada de datos en los setters y considerar el uso de `printf` para formatear el precio en `mostrarInformacion`."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución solo contiene la estructura básica de la clase `Main` y comentarios TODO. Falta la implementación de la lógica para crear los objetos `Estudiante` y `Libro`, así como mostrar y modificar su información."
+        "feedback": "La solución resuelve la actividad correctamente y sigue las indicaciones.  Se podría mejorar la organización del código creando métodos para separar la lógica relacionada con Estudiante y Libro para una mejor legibilidad y mantenibilidad."
       }
     ],
-    "overallScore": 1,
+    "overallScore": 4,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Necesita mejorar. Completó 3/3 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T14:08:57.827Z",
+    "evaluatedAt": "2025-08-18T14:09:17.871Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
