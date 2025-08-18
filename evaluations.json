@@ -108,5 +108,41 @@
     ],
     "evaluatedAt": "2025-08-18T14:10:59.922Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "OBrandonC/act_b1_em1": {
+    "repositoryUrl": "OBrandonC/act_b1_em1",
+    "studentName": "Brandon Ciro Ortiz",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y completa, cumpliendo con todos los requisitos. El código es limpio, legible y aplica validaciones en los setters como se indica."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente trabajo. El código cumple con todos los requisitos, incluyendo la validación del precio y los métodos de descuento. Buen uso de getters y setters."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La actividad se completó correctamente, cumpliendo con todos los requisitos y mostrando un buen entendimiento de la creación y manipulación de objetos. El código es legible y bien estructurado."
+      }
+    ],
+    "overallScore": 5,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-18T14:24:13.934Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
