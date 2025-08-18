@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 9200
+/Length 9243
 >>
 stream
 0.5670000000000001 w
@@ -48,14 +48,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 18/8/2025, 9:48:37) Tj
+(Fecha de evaluación: 18/8/2025, 9:49:17) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 677.0081102362204319 Td
-(Evaluado por: Sistema de Evaluación) Tj
+(Evaluado por: Sistema de Evaluación Masiva) Tj
 ET
 BT
 /F2 12 Tf
@@ -415,94 +415,95 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 295.9179527559056169 Td
-(La solución es completa y correcta. El código cumple con todos los requisitos, incluyendo validaciones en los) Tj
-T* (setters y la implementación del método `mostrarInformacion`. Buen trabajo.) Tj
+(La solución cumple con todos los requisitos: declaración de atributos privados, constructor, getters/setters con) Tj
+T* (validaciones correctas, y método mostrarInformacion. El uso de `this` es correcto y la estructura del código es) Tj
+T* (limpia y legible.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 260.2447244094489633 Td
+39.6850393700787407 248.7447244094488497 Td
 (Actividad 2: Verifica que el código cumpla con las indicaciones especificadas en los comentarios.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 244.5754330708663247 Td
+51.0236220472441033 233.075433070866211 Td
 (Archivo esperado: src/main/java/com/example/Libro.java) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 228.9061417322835723 Td
+51.0236220472441033 217.4061417322835723 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 213.2368503937009336 Td
+51.0236220472441033 201.7368503937009336 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 197.567559055118295 Td
+51.0236220472441033 186.0675590551181813 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 181.8982677165356563 Td
-(La solución es completa y correcta. El código es limpio, bien estructurado y cumple con todas las indicaciones,) Tj
-T* (incluyendo la validación del precio y los métodos de descuento. ¡Excelente trabajo!) Tj
+62.3622047244094517 170.3982677165355426 Td
+(La solución es completa y correcta. El código es limpio, bien estructurado y cumple con todos los requisitos,) Tj
+T* (incluyendo validaciones y buenas prácticas. Excelente trabajo.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 146.2250393700790028 Td
+39.6850393700787407 134.7250393700788891 Td
 (Actividad 3: Verifica que el código cumpla con las indicaciones especificadas en los comentarios.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 130.5557480314963641 Td
+51.0236220472441033 119.0557480314962504 Td
 (Archivo esperado: src/main/java/com/example/Main.java) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 114.8864566929136117 Td
+51.0236220472441033 103.386456692913498 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 99.2171653543308594 Td
+51.0236220472441033 87.7171653543308594 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 83.5478740157482207 Td
+51.0236220472441033 72.0478740157482207 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 67.878582677165582 Td
-(La actividad se resuelve correctamente y cumple con todos los requisitos. El código es limpio, fácil de leer y sigue) Tj
-T* (las buenas prácticas básicas. ¡Excelente trabajo!) Tj
+62.3622047244094517 56.3785826771654683 Td
+(La actividad se completa correctamente, demostrando un buen entendimiento de la creación de objetos y uso de) Tj
+T* (métodos. El código es legible y bien estructurado.) Tj
 ET
 BT
 /F1 8 Tf
@@ -750,7 +751,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250818094837-05'00')
+/CreationDate (D:20250818094917-05'00')
 >>
 endobj
 22 0 obj
@@ -764,35 +765,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000010436 00000 n 
-0000012261 00000 n 
+0000010479 00000 n 
+0000012304 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009404 00000 n 
-0000009541 00000 n 
-0000010499 00000 n 
-0000010624 00000 n 
-0000010754 00000 n 
-0000010887 00000 n 
-0000011025 00000 n 
-0000011149 00000 n 
-0000011278 00000 n 
-0000011410 00000 n 
-0000011546 00000 n 
-0000011674 00000 n 
-0000011801 00000 n 
-0000011930 00000 n 
-0000012063 00000 n 
-0000012165 00000 n 
-0000012511 00000 n 
-0000012597 00000 n 
+0000009447 00000 n 
+0000009584 00000 n 
+0000010542 00000 n 
+0000010667 00000 n 
+0000010797 00000 n 
+0000010930 00000 n 
+0000011068 00000 n 
+0000011192 00000 n 
+0000011321 00000 n 
+0000011453 00000 n 
+0000011589 00000 n 
+0000011717 00000 n 
+0000011844 00000 n 
+0000011973 00000 n 
+0000012106 00000 n 
+0000012208 00000 n 
+0000012554 00000 n 
+0000012640 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <121C64B397FBE0184952084F34DE1ABE> <121C64B397FBE0184952084F34DE1ABE> ]
+/ID [ <4B1D842774DF2723FCDFF3A26AA22B42> <4B1D842774DF2723FCDFF3A26AA22B42> ]
 >>
 startxref
-12701
+12744
 %%EOF
