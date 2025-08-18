@@ -107,40 +107,42 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "luisayepez567/act_b1_em1": {
-    "repositoryUrl": "luisayepez567/act_b1_em1",
-    "studentName": "Luisa Fernanda Yepez Ramirez",
+  "johan54d/act_b1_em1": {
+    "repositoryUrl": "johan54d/act_b1_em1",
+    "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. Cumple con todos los requisitos especificados, incluyendo validaciones en los setters y la implementación del método mostrarInformacion. Bien hecho."
+        "feedback": "La clase Estudiante está incompleta. No se han declarado los atributos, constructor ni métodos getter/setter según las indicaciones. Es necesario implementar la lógica faltante."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código es limpio, bien estructurado y sigue las indicaciones. Buen trabajo."
+        "feedback": "El código solo contiene la estructura base de la clase `Libro` y los comentarios TODO.  No se ha implementado ninguna de las funcionalidades requeridas: atributos, constructores, getters/setters, métodos de descuento o el método para mostrar información."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código cumple con las indicaciones y es fácil de entender. Buen trabajo!"
+        "feedback": "El código no implementa ninguna de las funcionalidades requeridas en los TODOs. Falta la creación de las clases `Estudiante` y `Libro`, así como la lógica dentro del `main`."
       }
     ],
-    "overallScore": 5,
+    "overallScore": 0.6666666666666666,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 2,
+    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T15:09:20.131Z",
+    "evaluatedAt": "2025-08-18T15:09:36.705Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
