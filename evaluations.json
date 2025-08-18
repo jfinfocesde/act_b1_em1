@@ -143,40 +143,42 @@
     "evaluatedAt": "2025-08-18T15:14:01.068Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   },
-  "zamu5555/act_b1_em1": {
-    "repositoryUrl": "zamu5555/act_b1_em1",
-    "studentName": "Samuel Diaz Vanegas",
+  "TheGhxstCO/act_b1_em1": {
+    "repositoryUrl": "TheGhxstCO/act_b1_em1",
+    "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa, cumpliendo con todos los requisitos. Se podrían mejorar los mensajes de error en los setters para proporcionar información más útil, y el setter de promedio debería incluir el 10.0 como valor válido."
+        "feedback": "La clase Estudiante no implementa ninguno de los TODOs indicados.  Es necesario declarar los atributos, constructor, getters/setters y el método mostrarInformacion."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución es funcional y completa, cumpliendo con los requerimientos. Podrías considerar usar excepciones en lugar de imprimir a consola en `setPrecio` y formatear la salida de los descuentos."
+        "feedback": "La clase `Libro.java` está completamente vacía y solo contiene comentarios TODO. No se ha implementado ninguna de las funcionalidades requeridas como atributos, constructores, getters/setters o métodos."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "Excelente trabajo! El código cumple con todos los requisitos y está bien estructurado. Buen uso de los métodos y constructores."
+        "feedback": "La actividad no está resuelta. El archivo solo contiene el esqueleto de la clase Main con comentarios TODO.  Implementa la lógica solicitada en los comentarios."
       }
     ],
-    "overallScore": 4.333333333333333,
+    "overallScore": 0.3333333333333333,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 1,
+    "summary": "Necesita mejorar. Completó 1/3 actividades (33%) con una calificación promedio de 0.3/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T15:14:17.860Z",
+    "evaluatedAt": "2025-08-18T15:14:34.465Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
