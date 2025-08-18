@@ -107,30 +107,30 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "MERODA13/act_b1_em1": {
-    "repositoryUrl": "MERODA13/act_b1_em1",
+  "Cristiandu12/act_b1_em1": {
+    "repositoryUrl": "Cristiandu12/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 1,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La clase 'Estudiante' está incompleta. Falta la declaración de los atributos privados, el constructor, los getters, los setters y el método mostrarInformacion. Debes implementar todas las funcionalidades descritas en los comentarios TODO."
+        "feedback": "La clase Estudiante está incompleta. No se han implementado los atributos, constructor, getters, setters ni el método mostrarInformacion. Es necesario completar la implementación según las indicaciones."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 0,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La clase 'Libro.java' no tiene ninguna implementación. Falta la declaración de atributos, constructores y métodos solicitados en los comentarios TODO."
+        "feedback": "La clase `Libro.java` solo contiene comentarios TODO indicando las tareas a realizar, pero no tiene ninguna implementación real. Necesita implementar los atributos, constructores, getters, setters, métodos de descuento y el método `mostrarInformacion`."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "El archivo Main.java solo contiene la estructura base y los comentarios TODO. No se implementa la lógica solicitada para la creación, manipulación y visualización de objetos Estudiante y Libro."
+        "feedback": "La actividad no se ha completado. Falta la implementación de la lógica para crear objetos Estudiante y Libro, así como la manipulación y visualización de sus atributos. Se necesita implementar las clases Estudiante y Libro con sus respectivos atributos y métodos."
       }
     ],
     "overallScore": 0.6666666666666666,
@@ -142,7 +142,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T15:10:15.283Z",
+    "evaluatedAt": "2025-08-18T15:10:32.852Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
