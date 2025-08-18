@@ -107,42 +107,40 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "johan54d/act_b1_em1": {
-    "repositoryUrl": "johan54d/act_b1_em1",
-    "studentName": "Estudiante desconocido",
+  "YTEJADAG/act_b1_em1": {
+    "repositoryUrl": "YTEJADAG/act_b1_em1",
+    "studentName": "Yesenia Tejada Garcia",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 0,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La clase Estudiante está incompleta. No se han declarado los atributos, constructor ni métodos getter/setter según las indicaciones. Es necesario implementar la lógica faltante."
+        "feedback": "La solución es correcta y funcional. La validación en los setters es adecuada, aunque el `else` en `setedad` y `setPromedio` debería llevar a lanzar una excepción en lugar de imprimir en consola. El método `mostrarInformacion` se puede mejorar para que el texto sea más legible."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "El código solo contiene la estructura base de la clase `Libro` y los comentarios TODO.  No se ha implementado ninguna de las funcionalidades requeridas: atributos, constructores, getters/setters, métodos de descuento o el método para mostrar información."
+        "feedback": "La solución es correcta y completa. Hay un error en el getter del título (usa 'nombre' en lugar de 'titulo'). Considera no imprimir directamente desde los setters o el método aplicarDescuento; es preferible retornar valores o usar excepciones."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código no implementa ninguna de las funcionalidades requeridas en los TODOs. Falta la creación de las clases `Estudiante` y `Libro`, así como la lógica dentro del `main`."
+        "feedback": "La actividad se resolvió correctamente cumpliendo con todos los requisitos. El código es claro y fácil de entender."
       }
     ],
-    "overallScore": 0.6666666666666666,
+    "overallScore": 4.333333333333333,
     "totalActivities": 3,
-    "completedActivities": 2,
-    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:09:36.705Z",
+    "evaluatedAt": "2025-08-18T15:09:55.938Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
