@@ -35,8 +35,8 @@
     "evaluatedAt": "2025-08-12T15:02:45.998Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "MERODA13/act_b1_em1": {
-    "repositoryUrl": "MERODA13/act_b1_em1",
+  "Cristiandu12/act_b1_em1": {
+    "repositoryUrl": "Cristiandu12/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
@@ -44,21 +44,21 @@
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 0,
         "fileFound": true,
-        "feedback": "La clase Estudiante está incompleta. No se declaran atributos, constructor ni métodos getter/setter. Debes implementar la lógica solicitada en los TODOs."
+        "feedback": "La clase Estudiante no tiene ninguna implementación. Falta declarar los atributos, constructor, getters, setters y el método mostrarInformacion."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
         "score": 0,
         "fileFound": true,
-        "feedback": "El archivo solo contiene la estructura de la clase Libro y los comentarios TODO. Falta implementar los atributos, constructores y métodos solicitados."
+        "feedback": "La clase Libro está incompleta. No se han implementado los atributos, constructores ni métodos solicitados en los comentarios TODO."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La clase Main solo contiene comentarios TODO y no implementa ninguna de las funcionalidades requeridas. Falta la implementación de la lógica para crear objetos Estudiante y Libro, así como la manipulación y visualización de su información."
+        "feedback": "La actividad no se completa. Falta la implementación de la lógica para crear los objetos Estudiante y Libro, así como la manipulación y visualización de la información solicitada."
       }
     ],
     "overallScore": 0.3333333333333333,
@@ -70,7 +70,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T14:03:58.563Z",
+    "evaluatedAt": "2025-08-18T14:04:15.731Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
