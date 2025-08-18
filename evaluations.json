@@ -107,40 +107,40 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "killmyselff/act_b1_em1": {
-    "repositoryUrl": "killmyselff/act_b1_em1",
-    "studentName": "Juan Diego Cano Galeano",
+  "tatojn/act_b1_em1": {
+    "repositoryUrl": "tatojn/act_b1_em1",
+    "studentName": "Tatiana Julio Negrete",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "¡Excelente trabajo! El código cumple con todos los requisitos, incluyendo las validaciones en los setters y la correcta implementación de los métodos getter y setter. Bien hecho."
+        "feedback": "La solución cumple con los requisitos, incluyendo validaciones en los setters.  Considera revisar el símbolo '$' al imprimir el promedio, ya que puede ser confuso."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta, cumpliendo con todos los requisitos especificados. El código es limpio, bien estructurado y aplica buenas prácticas como la validación de entradas."
+        "feedback": "La implementación es correcta y cumple con la mayoría de los requisitos. Se sugiere corregir el setter del titulo (setNombre) a setTitulo y considerar el uso de excepciones en lugar de System.out.println para el manejo de errores."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 4,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La solución resuelve correctamente la actividad. Se podrían mejorar las buenas prácticas encapsulando la lógica en métodos y evitar la duplicación de código en las llamadas a `mostrarInformacion()`."
+        "feedback": "La actividad se resolvió correctamente, cumpliendo con todos los requerimientos. El código es legible y funcional."
       }
     ],
-    "overallScore": 4.666666666666667,
+    "overallScore": 4.333333333333333,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:11:42.483Z",
+    "evaluatedAt": "2025-08-18T15:11:58.968Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
