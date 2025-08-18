@@ -1,38 +1,38 @@
 {
-  "sharon-Asprilla/act_b1_em1": {
-    "repositoryUrl": "sharon-Asprilla/act_b1_em1",
-    "studentName": "sharon saray asprilla cordoba",
+  "OBrandonC/act_b1_em1": {
+    "repositoryUrl": "OBrandonC/act_b1_em1",
+    "studentName": "Brandon Ciro Ortiz",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 4,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La solución cumple con los requisitos de la actividad. Se recomienda homogeneizar el manejo de errores en los setters (lanzar excepciones en lugar de imprimir a la consola). Considerar el uso de final para los atributos si no se espera que cambien después de la inicialización."
+        "feedback": "La solución es correcta y completa. El código es limpio, bien estructurado y cumple con todas las indicaciones, incluyendo las validaciones en los setters y la implementación de los métodos getter y mostrarInformacion."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 3,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El código cumple con los requisitos básicos, pero el segundo constructor asigna valores literales en lugar de usar los parámetros. Además, faltan los métodos `aplicarDescuento` y se podría mejorar la validación del precio lanzando una excepción en lugar de un simple `println`."
+        "feedback": "Excelente solución. El código cumple con todos los requerimientos, es legible, bien estructurado y las validaciones están implementadas correctamente. ¡Buen trabajo!"
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "La actividad resuelve la mayoría de los puntos solicitados. Falta aplicar los descuentos en los libros y mostrar la información actualizada de todos los libros luego de modificar atributos y aplicar descuentos."
+        "feedback": "La actividad se resuelve correctamente y el código es funcional. Se recomienda mejorar la legibilidad utilizando nombres de variables más descriptivos y considerar el uso de constantes para valores fijos."
       }
     ],
-    "overallScore": 3.6666666666666665,
+    "overallScore": 4.666666666666667,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Buen trabajo general. Completó 3/3 actividades (100%) con una calificación promedio de 3.7/5. Hay oportunidades de mejora en algunos aspectos.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T14:49:33.444Z",
-    "evaluatedBy": "Sistema de Evaluación Masiva"
+    "evaluatedAt": "2025-08-18T14:50:44.750Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
