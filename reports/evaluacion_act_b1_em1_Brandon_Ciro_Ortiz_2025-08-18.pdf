@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 9746
+/Length 9151
 >>
 stream
 0.5670000000000001 w
@@ -48,7 +48,7 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 18/8/2025, 10:48:16) Tj
+(Fecha de evaluación: 18/8/2025, 11:35:10) Tj
 ET
 BT
 /F1 10 Tf
@@ -69,21 +69,21 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 623.827007874015635 Td
-(Calificación general: 0.0/5.0) Tj
+(Calificación general: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 608.1577165354329964 Td
-(Actividades completadas: 0/3) Tj
+(Actividades completadas: 3/3) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 592.4884251968503577 Td
-(Porcentaje de completitud: 0.0%) Tj
+(Porcentaje de completitud: 100.0%) Tj
 ET
 BT
 /F2 12 Tf
@@ -214,7 +214,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 498.6533858267716255 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -227,7 +227,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 498.6533858267716255 Td
-(0.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -280,7 +280,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 470.2533858267717051 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -293,7 +293,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 470.2533858267717051 Td
-(0.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -345,7 +345,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 441.8533858267717278 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -358,7 +358,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 441.8533858267717278 Td
-(0.0) Tj
+(5.0) Tj
 ET
 0. G
 0.5670000000000001 w
@@ -394,14 +394,14 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 342.9258267716535897 Td
-(Estado: Archivo no encontrado) Tj
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 327.2565354330708942 Td
-(Calificación: 0.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -415,63 +415,94 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 295.9179527559056169 Td
-(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
-T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
-T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
-T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
-T* (ateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash") Tj
-T* (},"quotaValue":"200"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
-T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"54s"}]}}) Tj
+(La solución es correcta y completa. El código es claro, bien estructurado y sigue las buenas prácticas, incluyendo) Tj
+T* (la validación en los setters de edad y promedio.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 191.2447244094489633 Td
+39.6850393700787407 260.2447244094489633 Td
 (Actividad 2: Verifica que el código cumpla con las indicaciones especificadas en los comentarios.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 175.5754330708663247 Td
+51.0236220472441033 244.5754330708663247 Td
 (Archivo esperado: src/main/java/com/example/Libro.java) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 159.9061417322835723 Td
-(Estado: Archivo no encontrado) Tj
+51.0236220472441033 228.9061417322835723 Td
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 144.2368503937009336 Td
-(Calificación: 0.0/5.0) Tj
+51.0236220472441033 213.2368503937009336 Td
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 128.567559055118295 Td
+51.0236220472441033 197.567559055118295 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 112.8982677165355426 Td
-(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
-T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
-T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
-T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
-T* (ateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.0-flash","location":"global") Tj
-T* (},"quotaValue":"200"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
-T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"48s"}]}}) Tj
+62.3622047244094517 181.8982677165356563 Td
+(Excelente trabajo. El código resuelve correctamente la actividad, es legible y sigue las buenas prácticas. La) Tj
+T* (validación del precio y los descuentos están bien implementados.) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+39.6850393700787407 146.2250393700790028 Td
+(Actividad 3: Verifica que el código cumpla con las indicaciones especificadas en los comentarios.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 130.5557480314963641 Td
+(Archivo esperado: src/main/java/com/example/Main.java) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 114.8864566929136117 Td
+(Estado: Archivo encontrado) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 99.2171653543308594 Td
+(Calificación: 5.0/5.0) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+51.0236220472441033 83.5478740157482207 Td
+(Retroalimentación:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+62.3622047244094517 67.878582677165582 Td
+(Excelente trabajo. El código cumple con todos los requisitos de la actividad y es fácil de leer. Buen uso de setters y) Tj
+T* (métodos para aplicar descuentos.) Tj
 ET
 BT
 /F1 8 Tf
@@ -499,103 +530,39 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 2793
+/Length 844
 >>
 stream
 0.5670000000000001 w
 0. G
 BT
-/F2 10 Tf
-11.5 TL
-0. g
-39.6850393700787407 785.1970866141732586 Td
-(Actividad 3: Verifica que el código cumpla con las indicaciones especificadas en los comentarios.) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 769.5277952755905062 Td
-(Archivo esperado: src/main/java/com/example/Main.java) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 753.8585039370078675 Td
-(Estado: Archivo no encontrado) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 738.1892125984252289 Td
-(Calificación: 0.0/5.0) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 722.5199212598424765 Td
-(Retroalimentación:) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-62.3622047244094517 706.8506299212598378 Td
-(Error al evaluar: got status: 429 . {"error":{"code":429,"message":"You exceeded your current quota, please check) Tj
-T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
-T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
-T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
-T* (ateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash") Tj
-T* (},"quotaValue":"200"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
-T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"43s"}]}}) Tj
-ET
-BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 602.1774015748030706 Td
+39.6850393700787407 785.1970866141732586 Td
 (Resumen General) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 578.8388188976377933 Td
-(Necesita mejorar. Completó 0/3 actividades \(0%\) con una calificación promedio de 0.0/5. Se recomienda revisar los) Tj
-T* (conceptos fundamentales.) Tj
+39.6850393700787407 761.8585039370078675 Td
+(Excelente trabajo. Completó 3/3 actividades \(100%\) con una calificación promedio de 5.0/5. Demuestra buen) Tj
+T* (dominio de los conceptos.) Tj
 ET
 BT
 /F2 12 Tf
 13.7999999999999989 TL
 0. g
-39.6850393700787407 537.4962992125983874 Td
+39.6850393700787407 720.5159842519684616 Td
 (Recomendaciones) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 514.1577165354329964 Td
-(• Completar los archivos faltantes: src/main/java/com/example/Estudiante.java,) Tj
-T* (src/main/java/com/example/Libro.java, src/main/java/com/example/Main.java) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 486.9884251968503008 Td
-(• Enfocarse en mejorar la documentación y comentarios del código) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 471.3191338582676053 Td
-(• Aplicar mejores prácticas de programación) Tj
+51.0236220472441033 697.1774015748030706 Td
+(• Continuar con el excelente trabajo y mantener la calidad del código) Tj
 ET
 BT
 /F1 8 Tf
@@ -783,7 +750,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250818104816-05'00')
+/CreationDate (D:20250818113510-05'00')
 >>
 endobj
 22 0 obj
@@ -797,35 +764,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000012932 00000 n 
-0000014757 00000 n 
+0000010387 00000 n 
+0000012212 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009950 00000 n 
-0000010087 00000 n 
-0000012995 00000 n 
-0000013120 00000 n 
-0000013250 00000 n 
-0000013383 00000 n 
-0000013521 00000 n 
-0000013645 00000 n 
-0000013774 00000 n 
-0000013906 00000 n 
-0000014042 00000 n 
-0000014170 00000 n 
-0000014297 00000 n 
-0000014426 00000 n 
-0000014559 00000 n 
-0000014661 00000 n 
-0000015007 00000 n 
-0000015093 00000 n 
+0000009355 00000 n 
+0000009492 00000 n 
+0000010450 00000 n 
+0000010575 00000 n 
+0000010705 00000 n 
+0000010838 00000 n 
+0000010976 00000 n 
+0000011100 00000 n 
+0000011229 00000 n 
+0000011361 00000 n 
+0000011497 00000 n 
+0000011625 00000 n 
+0000011752 00000 n 
+0000011881 00000 n 
+0000012014 00000 n 
+0000012116 00000 n 
+0000012462 00000 n 
+0000012548 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <C1B002D5C97B3DFBEDB9097AEA8BE0E3> <C1B002D5C97B3DFBEDB9097AEA8BE0E3> ]
+/ID [ <63E54237D8E4D4976EC54596CCDA02C5> <63E54237D8E4D4976EC54596CCDA02C5> ]
 >>
 startxref
-15197
+12652
 %%EOF
