@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 9210
+/Length 9148
 >>
 stream
 0.5670000000000001 w
@@ -41,14 +41,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 708.346692913385823 Td
-(Repositorio: brandom123155/act_b1_em1) Tj
+(Repositorio: Elgrinch001/act_b1_em1) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 18/8/2025, 9:07:11) Tj
+(Fecha de evaluación: 18/8/2025, 9:07:28) Tj
 ET
 BT
 /F1 10 Tf
@@ -69,21 +69,21 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 623.827007874015635 Td
-(Calificación general: 0.7/5.0) Tj
+(Calificación general: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 608.1577165354329964 Td
-(Actividades completadas: 2/3) Tj
+(Actividades completadas: 3/3) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 592.4884251968503577 Td
-(Porcentaje de completitud: 66.7%) Tj
+(Porcentaje de completitud: 100.0%) Tj
 ET
 BT
 /F2 12 Tf
@@ -214,7 +214,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 399.0157480314961163 498.6533858267716255 Td
-(No) Tj
+(Sí) Tj
 ET
 1. g
 0.78 G
@@ -227,7 +227,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 498.6533858267716255 Td
-(0.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -293,7 +293,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 470.2533858267717051 Td
-(1.0) Tj
+(5.0) Tj
 ET
 1. g
 0.78 G
@@ -358,7 +358,7 @@ BT
 9.1999999999999993 TL
 0.314 g
 469.8818897637795544 441.8533858267717278 Td
-(1.0) Tj
+(5.0) Tj
 ET
 0. G
 0.5670000000000001 w
@@ -394,14 +394,14 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 342.9258267716535897 Td
-(Estado: Archivo no encontrado) Tj
+(Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
 51.0236220472441033 327.2565354330708942 Td
-(Calificación: 0.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -415,8 +415,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 295.9179527559056169 Td
-(Error al evaluar: got status: 503 . {"error":{"code":503,"message":"The model is overloaded. Please try again) Tj
-T* (later.","status":"UNAVAILABLE"}}) Tj
+(La solución cumple con todos los requisitos de la actividad. El código es limpio, bien estructurado y funcional.) Tj
+T* (Excelente implementación de getters/setters con validación.) Tj
 ET
 BT
 /F2 10 Tf
@@ -444,7 +444,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 213.2368503937009336 Td
-(Calificación: 1.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -458,8 +458,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 181.8982677165356563 Td
-(El archivo solo contiene la estructura de la clase Libro con comentarios TODO. Falta la implementación de los) Tj
-T* (atributos, constructores, getters, setters y métodos solicitados.) Tj
+(La solución cumple con todos los requisitos especificados y presenta un código limpio y bien estructurado. Se) Tj
+T* (aplican buenas prácticas como la validación del precio en el setter.) Tj
 ET
 BT
 /F2 10 Tf
@@ -487,7 +487,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 99.2171653543308594 Td
-(Calificación: 1.0/5.0) Tj
+(Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
@@ -501,8 +501,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 67.878582677165582 Td
-(La actividad no está resuelta. El archivo Main.java solo contiene la estructura base sin implementar la lógica) Tj
-T* (solicitada para la creación de objetos Estudiante y Libro, ni para la manipulación de sus atributos y métodos.) Tj
+(La solución es correcta y completa, cumpliendo con todos los requisitos de la actividad. El código es legible y bien) Tj
+T* (estructurado.) Tj
 ET
 BT
 /F1 8 Tf
@@ -530,7 +530,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 1261
+/Length 844
 >>
 stream
 0.5670000000000001 w
@@ -547,8 +547,8 @@ BT
 11.5 TL
 0. g
 39.6850393700787407 761.8585039370078675 Td
-(Necesita mejorar. Completó 2/3 actividades \(67%\) con una calificación promedio de 0.7/5. Se recomienda revisar) Tj
-T* (los conceptos fundamentales.) Tj
+(Excelente trabajo. Completó 3/3 actividades \(100%\) con una calificación promedio de 5.0/5. Demuestra buen) Tj
+T* (dominio de los conceptos.) Tj
 ET
 BT
 /F2 12 Tf
@@ -562,28 +562,7 @@ BT
 11.5 TL
 0. g
 51.0236220472441033 697.1774015748030706 Td
-(• Completar los archivos faltantes: src/main/java/com/example/Estudiante.java) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 681.5081102362204319 Td
-(• Revisar y mejorar las actividades con calificación baja) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 665.8388188976377933 Td
-(• Enfocarse en mejorar la documentación y comentarios del código) Tj
-ET
-BT
-/F1 10 Tf
-11.5 TL
-0. g
-51.0236220472441033 650.1695275590550409 Td
-(• Aplicar mejores prácticas de programación) Tj
+(• Continuar con el excelente trabajo y mantener la calidad del código) Tj
 ET
 BT
 /F1 8 Tf
@@ -771,7 +750,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250818090711-05'00')
+/CreationDate (D:20250818090728-05'00')
 >>
 endobj
 22 0 obj
@@ -785,35 +764,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000010864 00000 n 
-0000012689 00000 n 
+0000010384 00000 n 
+0000012209 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009414 00000 n 
-0000009551 00000 n 
-0000010927 00000 n 
-0000011052 00000 n 
-0000011182 00000 n 
-0000011315 00000 n 
-0000011453 00000 n 
-0000011577 00000 n 
-0000011706 00000 n 
-0000011838 00000 n 
-0000011974 00000 n 
-0000012102 00000 n 
-0000012229 00000 n 
-0000012358 00000 n 
-0000012491 00000 n 
-0000012593 00000 n 
-0000012939 00000 n 
-0000013025 00000 n 
+0000009352 00000 n 
+0000009489 00000 n 
+0000010447 00000 n 
+0000010572 00000 n 
+0000010702 00000 n 
+0000010835 00000 n 
+0000010973 00000 n 
+0000011097 00000 n 
+0000011226 00000 n 
+0000011358 00000 n 
+0000011494 00000 n 
+0000011622 00000 n 
+0000011749 00000 n 
+0000011878 00000 n 
+0000012011 00000 n 
+0000012113 00000 n 
+0000012459 00000 n 
+0000012545 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <D528A42C6C8740DD3BEDA1624F7AF6D2> <D528A42C6C8740DD3BEDA1624F7AF6D2> ]
+/ID [ <A7CEC03C5F640FF902F549A569E842EF> <A7CEC03C5F640FF902F549A569E842EF> ]
 >>
 startxref
-13129
+12649
 %%EOF
