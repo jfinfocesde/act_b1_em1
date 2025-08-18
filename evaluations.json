@@ -107,42 +107,40 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "brandom123155/act_b1_em1": {
-    "repositoryUrl": "brandom123155/act_b1_em1",
+  "Elgrinch001/act_b1_em1": {
+    "repositoryUrl": "Elgrinch001/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 0,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La clase Estudiante no implementa ninguno de los TODOs especificados en los comentarios. No se declaran atributos, constructor ni métodos getter/setter."
+        "feedback": "La solución es correcta y completa. El código sigue las buenas prácticas de encapsulamiento y los TODOs están implementados correctamente. Se incluye validación en los setters de edad y promedio."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La clase Libro no implementa ninguno de los métodos ni atributos solicitados. Debe definir los atributos privados, constructores, getters, setters y métodos de descuento y mostrar información."
+        "feedback": "La solución es completa y correcta. El código es limpio, bien estructurado y cumple con todos los requisitos especificados, incluyendo la validación del precio y las dos versiones del método `aplicarDescuento`."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. Falta la implementación de la lógica para crear objetos Estudiante y Libro, así como la manipulación de sus atributos y la aplicación de descuentos."
+        "feedback": "La solución es correcta y completa, cumpliendo con todos los requisitos especificados. El código es legible y bien estructurado."
       }
     ],
-    "overallScore": 0.6666666666666666,
+    "overallScore": 5,
     "totalActivities": 3,
-    "completedActivities": 2,
-    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:13:10.482Z",
+    "evaluatedAt": "2025-08-18T15:13:26.759Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
