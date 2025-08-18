@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 9758
+/Length 9761
 >>
 stream
 0.5670000000000001 w
@@ -41,14 +41,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 708.346692913385823 Td
-(Repositorio: sagumad/act_b1_em1) Tj
+(Repositorio: JeritoX10/act_b1_em1) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 18/8/2025, 10:16:06) Tj
+(Fecha de evaluación: 18/8/2025, 10:16:20) Tj
 ET
 BT
 /F1 10 Tf
@@ -419,10 +419,10 @@ BT
 T* (your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-li) Tj
 T* (mits.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.QuotaFailure","viol) Tj
 T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"Gener) Tj
-T* (ateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.0-flash","location":"global") Tj
+T* (ateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash") Tj
 T* (},"quotaValue":"200"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
 T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"4s"}]}}) Tj
+T* (rpc.RetryInfo","retryDelay":"50s"}]}}) Tj
 ET
 BT
 /F2 10 Tf
@@ -471,7 +471,7 @@ T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_
 T* (ateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash") Tj
 T* (},"quotaValue":"200"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
 T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"58s"}]}}) Tj
+T* (rpc.RetryInfo","retryDelay":"45s"}]}}) Tj
 ET
 BT
 /F1 8 Tf
@@ -551,7 +551,7 @@ T* (ations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_
 T* (ateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.0-flash") Tj
 T* (},"quotaValue":"200"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about) Tj
 T* (Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.) Tj
-T* (rpc.RetryInfo","retryDelay":"53s"}]}}) Tj
+T* (rpc.RetryInfo","retryDelay":"39s"}]}}) Tj
 ET
 BT
 /F2 12 Tf
@@ -783,7 +783,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250818101606-05'00')
+/CreationDate (D:20250818101620-05'00')
 >>
 endobj
 22 0 obj
@@ -797,35 +797,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000012944 00000 n 
-0000014769 00000 n 
+0000012947 00000 n 
+0000014772 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009962 00000 n 
-0000010099 00000 n 
-0000013007 00000 n 
-0000013132 00000 n 
-0000013262 00000 n 
-0000013395 00000 n 
-0000013533 00000 n 
-0000013657 00000 n 
-0000013786 00000 n 
-0000013918 00000 n 
-0000014054 00000 n 
-0000014182 00000 n 
-0000014309 00000 n 
-0000014438 00000 n 
-0000014571 00000 n 
-0000014673 00000 n 
-0000015019 00000 n 
-0000015105 00000 n 
+0000009965 00000 n 
+0000010102 00000 n 
+0000013010 00000 n 
+0000013135 00000 n 
+0000013265 00000 n 
+0000013398 00000 n 
+0000013536 00000 n 
+0000013660 00000 n 
+0000013789 00000 n 
+0000013921 00000 n 
+0000014057 00000 n 
+0000014185 00000 n 
+0000014312 00000 n 
+0000014441 00000 n 
+0000014574 00000 n 
+0000014676 00000 n 
+0000015022 00000 n 
+0000015108 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <1FD8A1DAFEC9DBF6DF33753EF5830BC2> <1FD8A1DAFEC9DBF6DF33753EF5830BC2> ]
+/ID [ <1A8F57ACAC0DD583F6F411B43F97331F> <1A8F57ACAC0DD583F6F411B43F97331F> ]
 >>
 startxref
-15209
+15212
 %%EOF
