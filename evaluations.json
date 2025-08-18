@@ -35,40 +35,40 @@
     "evaluatedAt": "2025-08-18T14:50:44.750Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "luisayepez567/act_b1_em1": {
-    "repositoryUrl": "luisayepez567/act_b1_em1",
-    "studentName": "Luisa Fernanda Yepez Ramirez",
+  "sharon-Asprilla/act_b1_em1": {
+    "repositoryUrl": "sharon-Asprilla/act_b1_em1",
+    "studentName": "sharon saray asprilla cordoba",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código cumple con todos los requisitos, incluyendo validaciones en los setters. Excelente trabajo."
+        "feedback": "La solución es correcta y funcional. Se recomienda manejar las validaciones de edad y promedio lanzando excepciones en lugar de imprimir en consola."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
+        "score": 3,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código es limpio, bien estructurado y cumple con todas las indicaciones, incluyendo la validación del precio y los descuentos."
+        "feedback": "La implementación de getters y setters es correcta, y el constructor con precio 0.0 está casi bien, pero asigna los valores literales \"titulo\" y \"autor\" en lugar de usar los parámetros. Faltan los métodos `aplicarDescuento`."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución cumple con todos los requisitos de la actividad. El código está bien estructurado y fácil de entender, demostrando un buen manejo de los conceptos de POO."
+        "feedback": "La actividad cumple con la mayoría de los requisitos, pero falta aplicar los descuentos a los libros y mostrar la información actualizada. Considera agregar manejo de excepciones y validaciones para robustecer el código."
       }
     ],
-    "overallScore": 5,
+    "overallScore": 3.6666666666666665,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Buen trabajo general. Completó 3/3 actividades (100%) con una calificación promedio de 3.7/5. Hay oportunidades de mejora en algunos aspectos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T14:59:24.236Z",
-    "evaluatedBy": "Sistema de Evaluación de No Calificados"
+    "evaluatedAt": "2025-08-18T15:01:34.715Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
