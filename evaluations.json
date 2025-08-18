@@ -107,42 +107,40 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "Cristiandu12/act_b1_em1": {
-    "repositoryUrl": "Cristiandu12/act_b1_em1",
-    "studentName": "Estudiante desconocido",
+  "SantiagoCalderon11/act_b1_em1": {
+    "repositoryUrl": "SantiagoCalderon11/act_b1_em1",
+    "studentName": "Santiago  Calderon Hernandez",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 0,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La clase Estudiante está incompleta. No se han implementado los atributos, constructor, getters, setters ni el método mostrarInformacion. Es necesario completar la implementación según las indicaciones."
+        "feedback": "La solución cumple con todos los requisitos especificados. El código es claro, bien estructurado y aplica buenas prácticas como la validación de datos en los setters."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La clase `Libro.java` solo contiene comentarios TODO indicando las tareas a realizar, pero no tiene ninguna implementación real. Necesita implementar los atributos, constructores, getters, setters, métodos de descuento y el método `mostrarInformacion`."
+        "feedback": "La solución es completa y correcta. El código está bien estructurado, es legible y aplica buenas prácticas como la validación del precio y los descuentos."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La actividad no se ha completado. Falta la implementación de la lógica para crear objetos Estudiante y Libro, así como la manipulación y visualización de sus atributos. Se necesita implementar las clases Estudiante y Libro con sus respectivos atributos y métodos."
+        "feedback": "La actividad se completa exitosamente siguiendo las instrucciones. El código es legible y bien estructurado, demostrando un buen entendimiento de los conceptos de POO."
       }
     ],
-    "overallScore": 0.6666666666666666,
+    "overallScore": 5,
     "totalActivities": 3,
-    "completedActivities": 2,
-    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:10:32.852Z",
+    "evaluatedAt": "2025-08-18T15:10:49.996Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
