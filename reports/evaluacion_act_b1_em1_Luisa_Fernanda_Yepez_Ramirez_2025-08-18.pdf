@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 9179
+/Length 9083
 >>
 stream
 0.5670000000000001 w
@@ -48,14 +48,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 18/8/2025, 10:04:32) Tj
+(Fecha de evaluación: 18/8/2025, 10:09:20) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 677.0081102362204319 Td
-(Evaluado por: Sistema de Evaluación) Tj
+(Evaluado por: Sistema de Evaluación de No Calificados) Tj
 ET
 BT
 /F2 12 Tf
@@ -415,8 +415,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 295.9179527559056169 Td
-(La actividad se completó correctamente y el código es limpio y bien estructurado. Las validaciones en los setters) Tj
-T* (son correctas y el método mostrarInformacion cumple su función.) Tj
+(La solución es correcta y completa. Cumple con todos los requisitos especificados, incluyendo validaciones en los) Tj
+T* (setters y la implementación del método mostrarInformacion. Bien hecho.) Tj
 ET
 BT
 /F2 10 Tf
@@ -458,51 +458,49 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 181.8982677165356563 Td
-(La solución es correcta y completa. El código es limpio, bien estructurado y cumple con todos los requisitos) Tj
-T* (especificados en los comentarios. Buen trabajo.) Tj
+(La solución es completa y correcta. El código es limpio, bien estructurado y sigue las indicaciones. Buen trabajo.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 146.2250393700790028 Td
+39.6850393700787407 157.7250393700790028 Td
 (Actividad 3: Verifica que el código cumpla con las indicaciones especificadas en los comentarios.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 130.5557480314963641 Td
+51.0236220472441033 142.0557480314962504 Td
 (Archivo esperado: src/main/java/com/example/Main.java) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 114.8864566929136117 Td
+51.0236220472441033 126.3864566929136117 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 99.2171653543308594 Td
+51.0236220472441033 110.7171653543309731 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 83.5478740157482207 Td
+51.0236220472441033 95.0478740157483344 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 67.878582677165582 Td
-(La actividad se resolvió correctamente siguiendo las indicaciones. El código es legible y funcional. Se puede) Tj
-T* (considerar añadir manejo de excepciones para robustecer el código.) Tj
+62.3622047244094517 79.3785826771656957 Td
+(La solución es completa y correcta. El código cumple con las indicaciones y es fácil de entender. Buen trabajo!) Tj
 ET
 BT
 /F1 8 Tf
@@ -750,7 +748,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250818100432-05'00')
+/CreationDate (D:20250818100920-05'00')
 >>
 endobj
 22 0 obj
@@ -764,35 +762,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000010415 00000 n 
-0000012240 00000 n 
+0000010319 00000 n 
+0000012144 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009383 00000 n 
-0000009520 00000 n 
-0000010478 00000 n 
-0000010603 00000 n 
-0000010733 00000 n 
-0000010866 00000 n 
-0000011004 00000 n 
-0000011128 00000 n 
-0000011257 00000 n 
-0000011389 00000 n 
-0000011525 00000 n 
-0000011653 00000 n 
-0000011780 00000 n 
-0000011909 00000 n 
-0000012042 00000 n 
-0000012144 00000 n 
-0000012490 00000 n 
-0000012576 00000 n 
+0000009287 00000 n 
+0000009424 00000 n 
+0000010382 00000 n 
+0000010507 00000 n 
+0000010637 00000 n 
+0000010770 00000 n 
+0000010908 00000 n 
+0000011032 00000 n 
+0000011161 00000 n 
+0000011293 00000 n 
+0000011429 00000 n 
+0000011557 00000 n 
+0000011684 00000 n 
+0000011813 00000 n 
+0000011946 00000 n 
+0000012048 00000 n 
+0000012394 00000 n 
+0000012480 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <BB45F59BF566A8FCEE6DBBBC15B85305> <BB45F59BF566A8FCEE6DBBBC15B85305> ]
+/ID [ <8146D56B5440B8AE08644AAE7D4C68DF> <8146D56B5440B8AE08644AAE7D4C68DF> ]
 >>
 startxref
-12680
+12584
 %%EOF
