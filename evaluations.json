@@ -71,40 +71,43 @@
     "evaluatedAt": "2025-08-18T14:05:43.530Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "Malzate1/act_b1_em1": {
-    "repositoryUrl": "Malzate1/act_b1_em1",
-    "studentName": "Mayra Alejandra Alzate Sanchez",
+  "brandom123155/act_b1_em1": {
+    "repositoryUrl": "brandom123155/act_b1_em1",
+    "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
-        "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código es limpio, bien estructurado y cumple con todas las validaciones requeridas en los setters. Buen trabajo."
+        "score": 0,
+        "fileFound": false,
+        "feedback": "Error al evaluar: got status: 503 . {\"error\":{\"code\":503,\"message\":\"The model is overloaded. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución es correcta y cumple con la mayoría de los requisitos. Se sugiere mejorar la validación de entradas en el método `aplicarDescuento(double porcentaje,double montoMaximo)` para asegurar que el precio actualizado no sea negativo y mantener la consistencia en el uso de `setPrecio` para actualizaciones de precio."
+        "feedback": "El archivo solo contiene la estructura de la clase Libro con comentarios TODO. Falta la implementación de los atributos, constructores, getters, setters y métodos solicitados."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La actividad se resuelve correctamente y cumple con todos los requisitos. El código es limpio, legible y bien estructurado, demostrando buenas prácticas de programación."
+        "feedback": "La actividad no está resuelta. El archivo Main.java solo contiene la estructura base sin implementar la lógica solicitada para la creación de objetos Estudiante y Libro, ni para la manipulación de sus atributos y métodos."
       }
     ],
-    "overallScore": 4.666666666666667,
+    "overallScore": 0.6666666666666666,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 2,
+    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Completar los archivos faltantes: src/main/java/com/example/Estudiante.java",
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-18T14:06:53.713Z",
+    "evaluatedAt": "2025-08-18T14:07:10.624Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
