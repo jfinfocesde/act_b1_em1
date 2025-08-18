@@ -144,5 +144,41 @@
     ],
     "evaluatedAt": "2025-08-18T14:24:13.934Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "sharon-Asprilla/act_b1_em1": {
+    "repositoryUrl": "sharon-Asprilla/act_b1_em1",
+    "studentName": "sharon saray asprilla cordoba",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y completa. El código es claro, bien estructurado y cumple con las buenas prácticas. Las validaciones en los setters son un buen detalle."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 3,
+        "fileFound": true,
+        "feedback": "La estructura general es correcta, pero el segundo constructor asigna valores fijos en lugar de usar los parámetros. Faltan implementar los métodos `aplicarDescuento`."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La actividad cumple con la mayoría de los requisitos, pero falta aplicar los descuentos a los libros y mostrar la información actualizada después de aplicarlos. Considera también usar un formato consistente para la salida (ej: precio siempre con dos decimales)."
+      }
+    ],
+    "overallScore": 4,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.0/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-18T14:32:06.209Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
