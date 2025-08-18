@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 9414
+/Length 9204
 >>
 stream
 0.5670000000000001 w
@@ -41,14 +41,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 708.346692913385823 Td
-(Repositorio: Cristiandu12/act_b1_em1) Tj
+(Repositorio: brandom123155/act_b1_em1) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 18/8/2025, 10:10:33) Tj
+(Fecha de evaluación: 18/8/2025, 10:13:11) Tj
 ET
 BT
 /F1 10 Tf
@@ -415,8 +415,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 295.9179527559056169 Td
-(La clase Estudiante está incompleta. No se han implementado los atributos, constructor, getters, setters ni el) Tj
-T* (método mostrarInformacion. Es necesario completar la implementación según las indicaciones.) Tj
+(La clase Estudiante no implementa ninguno de los TODOs especificados en los comentarios. No se declaran) Tj
+T* (atributos, constructor ni métodos getter/setter.) Tj
 ET
 BT
 /F2 10 Tf
@@ -458,53 +458,51 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 181.8982677165356563 Td
-(La clase `Libro.java` solo contiene comentarios TODO indicando las tareas a realizar, pero no tiene ninguna) Tj
-T* (implementación real. Necesita implementar los atributos, constructores, getters, setters, métodos de descuento y el) Tj
-T* (método `mostrarInformacion`.) Tj
+(La clase Libro no implementa ninguno de los métodos ni atributos solicitados. Debe definir los atributos privados,) Tj
+T* (constructores, getters, setters y métodos de descuento y mostrar información.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 134.7250393700790028 Td
+39.6850393700787407 146.2250393700790028 Td
 (Actividad 3: Verifica que el código cumpla con las indicaciones especificadas en los comentarios.) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 119.0557480314963641 Td
+51.0236220472441033 130.5557480314963641 Td
 (Archivo esperado: src/main/java/com/example/Main.java) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 103.3864566929136117 Td
+51.0236220472441033 114.8864566929136117 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 87.7171653543309731 Td
+51.0236220472441033 99.2171653543308594 Td
 (Calificación: 1.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 72.0478740157483344 Td
+51.0236220472441033 83.5478740157482207 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 56.3785826771656957 Td
-(La actividad no se ha completado. Falta la implementación de la lógica para crear objetos Estudiante y Libro, así) Tj
-T* (como la manipulación y visualización de sus atributos. Se necesita implementar las clases Estudiante y Libro con) Tj
-T* (sus respectivos atributos y métodos.) Tj
+62.3622047244094517 67.878582677165582 Td
+(La actividad no está resuelta. Falta la implementación de la lógica para crear objetos Estudiante y Libro, así como) Tj
+T* (la manipulación de sus atributos y la aplicación de descuentos.) Tj
 ET
 BT
 /F1 8 Tf
@@ -766,7 +764,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250818101033-05'00')
+/CreationDate (D:20250818101311-05'00')
 >>
 endobj
 22 0 obj
@@ -780,35 +778,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000010912 00000 n 
-0000012737 00000 n 
+0000010702 00000 n 
+0000012527 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009618 00000 n 
-0000009755 00000 n 
-0000010975 00000 n 
-0000011100 00000 n 
-0000011230 00000 n 
-0000011363 00000 n 
-0000011501 00000 n 
-0000011625 00000 n 
-0000011754 00000 n 
-0000011886 00000 n 
-0000012022 00000 n 
-0000012150 00000 n 
-0000012277 00000 n 
-0000012406 00000 n 
-0000012539 00000 n 
-0000012641 00000 n 
-0000012987 00000 n 
-0000013073 00000 n 
+0000009408 00000 n 
+0000009545 00000 n 
+0000010765 00000 n 
+0000010890 00000 n 
+0000011020 00000 n 
+0000011153 00000 n 
+0000011291 00000 n 
+0000011415 00000 n 
+0000011544 00000 n 
+0000011676 00000 n 
+0000011812 00000 n 
+0000011940 00000 n 
+0000012067 00000 n 
+0000012196 00000 n 
+0000012329 00000 n 
+0000012431 00000 n 
+0000012777 00000 n 
+0000012863 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <CC0F20C45C71C6F3B079D5259C7C0939> <CC0F20C45C71C6F3B079D5259C7C0939> ]
+/ID [ <3A30C3D7FADFDDC92CCD2A5D457C1B04> <3A30C3D7FADFDDC92CCD2A5D457C1B04> ]
 >>
 startxref
-13177
+12967
 %%EOF
