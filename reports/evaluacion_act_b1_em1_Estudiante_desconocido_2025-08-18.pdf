@@ -10,7 +10,7 @@
 endobj
 4 0 obj
 <<
-/Length 9214
+/Length 9122
 >>
 stream
 0.5670000000000001 w
@@ -41,14 +41,14 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 708.346692913385823 Td
-(Repositorio: MERODA13/act_b1_em1) Tj
+(Repositorio: Cristiandu12/act_b1_em1) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 18/8/2025, 9:03:59) Tj
+(Fecha de evaluación: 18/8/2025, 9:04:16) Tj
 ET
 BT
 /F1 10 Tf
@@ -415,8 +415,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 295.9179527559056169 Td
-(La clase Estudiante está incompleta. No se declaran atributos, constructor ni métodos getter/setter. Debes) Tj
-T* (implementar la lógica solicitada en los TODOs.) Tj
+(La clase Estudiante no tiene ninguna implementación. Falta declarar los atributos, constructor, getters, setters y el) Tj
+T* (método mostrarInformacion.) Tj
 ET
 BT
 /F2 10 Tf
@@ -458,8 +458,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 181.8982677165356563 Td
-(El archivo solo contiene la estructura de la clase Libro y los comentarios TODO. Falta implementar los atributos,) Tj
-T* (constructores y métodos solicitados.) Tj
+(La clase Libro está incompleta. No se han implementado los atributos, constructores ni métodos solicitados en los) Tj
+T* (comentarios TODO.) Tj
 ET
 BT
 /F2 10 Tf
@@ -501,9 +501,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 67.878582677165582 Td
-(La clase Main solo contiene comentarios TODO y no implementa ninguna de las funcionalidades requeridas. Falta) Tj
-T* (la implementación de la lógica para crear objetos Estudiante y Libro, así como la manipulación y visualización de su) Tj
-T* (información.) Tj
+(La actividad no se completa. Falta la implementación de la lógica para crear los objetos Estudiante y Libro, así) Tj
+T* (como la manipulación y visualización de la información solicitada.) Tj
 ET
 BT
 /F1 8 Tf
@@ -765,7 +764,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250818090359-05'00')
+/CreationDate (D:20250818090416-05'00')
 >>
 endobj
 22 0 obj
@@ -779,35 +778,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000010712 00000 n 
-0000012537 00000 n 
+0000010620 00000 n 
+0000012445 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009418 00000 n 
-0000009555 00000 n 
-0000010775 00000 n 
-0000010900 00000 n 
-0000011030 00000 n 
-0000011163 00000 n 
-0000011301 00000 n 
-0000011425 00000 n 
-0000011554 00000 n 
-0000011686 00000 n 
-0000011822 00000 n 
-0000011950 00000 n 
-0000012077 00000 n 
-0000012206 00000 n 
-0000012339 00000 n 
-0000012441 00000 n 
-0000012787 00000 n 
-0000012873 00000 n 
+0000009326 00000 n 
+0000009463 00000 n 
+0000010683 00000 n 
+0000010808 00000 n 
+0000010938 00000 n 
+0000011071 00000 n 
+0000011209 00000 n 
+0000011333 00000 n 
+0000011462 00000 n 
+0000011594 00000 n 
+0000011730 00000 n 
+0000011858 00000 n 
+0000011985 00000 n 
+0000012114 00000 n 
+0000012247 00000 n 
+0000012349 00000 n 
+0000012695 00000 n 
+0000012781 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <F6657DCE11EE267815E09E8765BB0EAB> <F6657DCE11EE267815E09E8765BB0EAB> ]
+/ID [ <E6929ABDF0D7CCEC052BCFEDC0DDF8D4> <E6929ABDF0D7CCEC052BCFEDC0DDF8D4> ]
 >>
 startxref
-12977
+12885
 %%EOF
