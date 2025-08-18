@@ -107,40 +107,40 @@
     "evaluatedAt": "2025-08-18T15:07:26.584Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "jesuazav/act_b1_em1": {
-    "repositoryUrl": "jesuazav/act_b1_em1",
-    "studentName": "jefferson  suaza vera",
+  "Manin611/act_b1_em1": {
+    "repositoryUrl": "Manin611/act_b1_em1",
+    "studentName": "Samuel Ceballos Gonzalez",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código implementa todos los requisitos: atributos privados, constructor, getters, setters con validaciones y el método mostrarInformacion. ¡Excelente trabajo!"
+        "feedback": "La solución es correcta, completa y bien estructurada. Implementa correctamente los atributos, constructor, getters, setters (con validaciones) y el método mostrarInformacion. Buen trabajo."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta, cumpliendo con todos los requerimientos y buenas prácticas (encapsulamiento, validaciones). El código es limpio y bien estructurado."
+        "feedback": "La solución es correcta y funcional. Se recomienda evitar la redundancia en la validación de los datos de entrada, extrayendo la lógica en métodos separados para mejor legibilidad y mantenibilidad."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. Cumple con todos los requerimientos del problema y el código es legible y bien estructurado."
+        "feedback": "La actividad se completa correctamente y sigue las instrucciones. El código está bien estructurado y funcional, demostrando un buen entendimiento de los conceptos."
       }
     ],
-    "overallScore": 5,
+    "overallScore": 4.666666666666667,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-18T15:13:43.572Z",
+    "evaluatedAt": "2025-08-18T15:14:01.068Z",
     "evaluatedBy": "Sistema de Evaluación de No Calificados"
   }
 }
