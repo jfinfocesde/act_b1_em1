@@ -70,5 +70,41 @@
     ],
     "evaluatedAt": "2025-08-18T14:05:43.530Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "tatojn/act_b1_em1": {
+    "repositoryUrl": "tatojn/act_b1_em1",
+    "studentName": "Tatiana Julio Negrete",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es correcta y cumple con los requerimientos. Se recomienda corregir el error tipográfico en la impresión del promedio (dólar en lugar de nada) y añadir manejo de excepciones en lugar de System.out.println para los setters."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución cumple con la mayoría de los requisitos. Se sugiere cambiar el nombre del setter 'setNombre' a 'setTitulo' para mantener la consistencia y encapsulamiento. Bien implementada la validación del precio y los descuentos."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución cumple con todos los requisitos especificados. El código es limpio y fácil de entender, demostrando un buen entendimiento de los conceptos de POO."
+      }
+    ],
+    "overallScore": 4.333333333333333,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-18T14:06:01.091Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
