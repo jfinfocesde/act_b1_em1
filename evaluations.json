@@ -1,38 +1,40 @@
 {
-  "YTEJADAG/act_b1_em1": {
-    "repositoryUrl": "YTEJADAG/act_b1_em1",
-    "studentName": "Yesenia Tejada Garcia",
+  "MERODA13/act_b1_em1": {
+    "repositoryUrl": "MERODA13/act_b1_em1",
+    "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La implementación es correcta y cumple con los requisitos. Se recomienda agregar manejo de excepciones en los setters en lugar de imprimir mensajes a la consola, y corregir el error de sintaxis en el `else` del `setedad`."
+        "feedback": "La clase Estudiante está incompleta. Falta la declaración de atributos, el constructor, los getters, setters y el método mostrarInformacion. Recuerda implementar las validaciones en los setters de edad y promedio."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa, pero hay un error tipográfico en `getTitulo()` (usa `nombre` en lugar de `titulo`). Considera usar `System.err.println` para los mensajes de error."
+        "feedback": "La clase 'Libro.java' solo contiene la estructura básica con comentarios TODO.  Es necesario implementar los atributos, constructores y métodos según las indicaciones para completar la actividad."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución cumple con todos los requisitos de la actividad. El código es claro, bien estructurado y funcional."
+        "feedback": "La actividad no está resuelta. El archivo solo contiene la estructura básica de la clase Main pero no se implementa la lógica solicitada en los comentarios TODO, ni la creación de clases Estudiante y Libro."
       }
     ],
-    "overallScore": 4.333333333333333,
+    "overallScore": 1,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Necesita mejorar. Completó 3/3 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-19T01:13:33.275Z",
+    "evaluatedAt": "2025-08-19T01:13:49.202Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
