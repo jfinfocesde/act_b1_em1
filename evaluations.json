@@ -1,40 +1,40 @@
 {
-  "MERODA13/act_b1_em1": {
-    "repositoryUrl": "MERODA13/act_b1_em1",
+  "Cristiandu12/act_b1_em1": {
+    "repositoryUrl": "Cristiandu12/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 1,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La clase Estudiante está incompleta. Falta la declaración de atributos, el constructor, los getters, setters y el método mostrarInformacion. Recuerda implementar las validaciones en los setters de edad y promedio."
+        "feedback": "El estudiante no ha implementado ninguna parte del código. Necesita declarar atributos, constructor, getters, setters y el método mostrarInformacion según las indicaciones."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La clase 'Libro.java' solo contiene la estructura básica con comentarios TODO.  Es necesario implementar los atributos, constructores y métodos según las indicaciones para completar la actividad."
+        "feedback": "La clase `Libro.java` está vacía. No se han implementado los atributos, constructores ni métodos requeridos en los comentarios TODO."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. El archivo solo contiene la estructura básica de la clase Main pero no se implementa la lógica solicitada en los comentarios TODO, ni la creación de clases Estudiante y Libro."
+        "feedback": "El archivo Main.java solo contiene la estructura base y los comentarios TODO. No se implementa ninguna de las funcionalidades solicitadas en la descripción de la actividad."
       }
     ],
-    "overallScore": 1,
+    "overallScore": 0.3333333333333333,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Necesita mejorar. Completó 3/3 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 1,
+    "summary": "Necesita mejorar. Completó 1/3 actividades (33%) con una calificación promedio de 0.3/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
       "Revisar y mejorar las actividades con calificación baja",
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-19T01:13:49.202Z",
+    "evaluatedAt": "2025-08-19T01:14:05.927Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
