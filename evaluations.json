@@ -35,40 +35,42 @@
     "evaluatedAt": "2025-08-19T01:16:22.191Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "Juan2589/act_b1_em1": {
-    "repositoryUrl": "Juan2589/act_b1_em1",
+  "SantiagoZVcesde/act_b1_em1": {
+    "repositoryUrl": "SantiagoZVcesde/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La implementación es casi correcta. El constructor y el setter de promedio deberían usar `double` en lugar de convertir a `int`, ya que la descripción lo indica. En general, el código es legible y cumple con la mayoría de los requisitos."
+        "feedback": "La clase `Estudiante` está vacía, solo contiene comentarios TODO. No se ha implementado ninguna de las funcionalidades requeridas (atributos, constructor, getters, setters, validaciones ni el método `mostrarInformacion`)."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 4,
+        "score": 0,
         "fileFound": true,
-        "feedback": "La solución cumple con la mayoría de los requisitos. Considera eliminar la clase `public class libro {` duplicada y mejorar la validación de los porcentajes en los descuentos para evitar comportamientos inesperados."
+        "feedback": "La clase 'Libro.java' solo contiene la estructura básica y los 'TODO's. No se ha implementado ninguna de las funcionalidades requeridas como atributos, constructores, getters, setters, métodos de descuento o el método de información."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La implementación cumple con los requisitos de la actividad y la lógica es correcta. Sería bueno ver las clases Estudiante y Libro para una evaluación más completa."
+        "feedback": "La actividad no está resuelta. Falta la implementación de las clases Estudiante y Libro, así como la lógica dentro del método main para cumplir con los requisitos planteados."
       }
     ],
-    "overallScore": 4,
+    "overallScore": 0.3333333333333333,
     "totalActivities": 3,
-    "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.0/5. Demuestra buen dominio de los conceptos.",
+    "completedActivities": 1,
+    "summary": "Necesita mejorar. Completó 1/3 actividades (33%) con una calificación promedio de 0.3/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-19T01:18:39.955Z",
+    "evaluatedAt": "2025-08-19T01:18:57.462Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
