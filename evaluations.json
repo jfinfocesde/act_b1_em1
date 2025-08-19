@@ -1,28 +1,28 @@
 {
-  "Brimontoya568/act_b1_em1": {
-    "repositoryUrl": "Brimontoya568/act_b1_em1",
-    "studentName": "Britany Montoya",
+  "anderson0188/act_b1_em1": {
+    "repositoryUrl": "anderson0188/act_b1_em1",
+    "studentName": "Anderson Vanegas Jaramillo",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código sigue las buenas prácticas de encapsulamiento y validación de datos."
+        "feedback": "La solución cumple con todos los requisitos especificados. El código es limpio, bien estructurado y funcional. Buen trabajo!"
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código es limpio y bien estructurado, cumpliendo con las buenas prácticas de la POO. ¡Excelente trabajo!"
+        "feedback": "Excelente trabajo. El código cumple con todos los requisitos de la actividad, incluyendo validaciones y múltiples constructores. Bien hecho."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta, cumpliendo con todos los requisitos de la actividad. El código es claro y bien estructurado, demostrando un buen entendimiento de los conceptos."
+        "feedback": "La actividad se resuelve correctamente y cumple con todos los requisitos especificados. El código es limpio, funcional y bien estructurado."
       }
     ],
     "overallScore": 5,
@@ -32,7 +32,7 @@
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:15:47.814Z",
+    "evaluatedAt": "2025-08-19T01:16:04.953Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
