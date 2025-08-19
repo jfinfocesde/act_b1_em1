@@ -35,42 +35,40 @@
     "evaluatedAt": "2025-08-19T01:16:22.191Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "SamuelH1211/act_b1_em1": {
-    "repositoryUrl": "SamuelH1211/act_b1_em1",
+  "Juan2589/act_b1_em1": {
+    "repositoryUrl": "Juan2589/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La clase Estudiante está incompleta. Faltan la declaración de atributos, el constructor, los getters/setters y el método mostrarInformacion. Implementar las validaciones en los setters es crucial."
+        "feedback": "La implementación es casi correcta. El constructor y el setter de promedio deberían usar `double` en lugar de convertir a `int`, ya que la descripción lo indica. En general, el código es legible y cumple con la mayoría de los requisitos."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La clase `Libro` está incompleta. No se han implementado los atributos, constructores ni métodos requeridos, dejando la actividad sin resolver."
+        "feedback": "La solución cumple con la mayoría de los requisitos. Considera eliminar la clase `public class libro {` duplicada y mejorar la validación de los porcentajes en los descuentos para evitar comportamientos inesperados."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. Falta implementar la lógica solicitada dentro del método `main` para crear objetos `Estudiante` y `Libro`, manipularlos y mostrar la información."
+        "feedback": "La implementación cumple con los requisitos de la actividad y la lógica es correcta. Sería bueno ver las clases Estudiante y Libro para una evaluación más completa."
       }
     ],
-    "overallScore": 1,
+    "overallScore": 4,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Necesita mejorar. Completó 3/3 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:18:23.112Z",
+    "evaluatedAt": "2025-08-19T01:18:39.955Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
