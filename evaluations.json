@@ -180,5 +180,41 @@
     ],
     "evaluatedAt": "2025-08-19T14:28:32.950Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "tatojn/act_b1_em1": {
+    "repositoryUrl": "tatojn/act_b1_em1",
+    "studentName": "Tatiana Julio Negrete",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es correcta y completa, implementando getters, setters (con validaciones), constructor y método mostrarInformacion.  Sería bueno usar un logger en lugar de `System.out.println` para las validaciones, y corregir el símbolo `$` en la impresión del promedio."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La implementación es correcta y cumple con la mayoría de los requisitos.  Sin embargo, el método `setNombre` debe ser `setTitulo` para mantener la consistencia con el nombre del atributo, y la salida de error podría ser mejor manejada (e.g., lanzar una excepción en lugar de imprimir a consola)."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La actividad se resuelve correctamente y cumple con todos los requisitos. El código es claro y funcional, demostrando una buena comprensión de los conceptos."
+      }
+    ],
+    "overallScore": 4.333333333333333,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-19T14:51:20.151Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
