@@ -1,38 +1,38 @@
 {
-  "OBrandonC/act_b1_em1": {
-    "repositoryUrl": "OBrandonC/act_b1_em1",
-    "studentName": "Brandon Ciro Ortiz",
+  "sharon-Asprilla/act_b1_em1": {
+    "repositoryUrl": "sharon-Asprilla/act_b1_em1",
+    "studentName": "sharon saray asprilla cordoba",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La actividad está resuelta correctamente y sigue las buenas prácticas. El código es limpio, legible y cumple con todas las indicaciones, incluyendo la validación en los setters."
+        "feedback": "La solución es correcta y cumple con los requerimientos. Se podrían agregar excepciones en los setters en lugar de imprimir en consola."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
+        "score": 3,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta, cumpliendo con todos los requerimientos. El código es legible y bien estructurado, aplicando buenas prácticas como la validación del precio y descuentos."
+        "feedback": "El código cumple con la creación de atributos, constructores y getters/setters básicos. Falta implementar los métodos `aplicarDescuento` (ambas versiones). El constructor con título y autor asigna valores literales, debe usar los parámetros."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 4,
         "fileFound": true,
-        "feedback": "La actividad se resuelve correctamente y el código es funcional. Sería ideal definir las clases Estudiante y Libro en archivos separados para mejorar la organización."
+        "feedback": "La solución cumple con la mayoría de los requisitos. Sin embargo, falta aplicar el descuento a los libros y mostrar la información actualizada después de aplicar el descuento, como se solicitaba en la descripción."
       }
     ],
-    "overallScore": 4.666666666666667,
+    "overallScore": 3.6666666666666665,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Buen trabajo general. Completó 3/3 actividades (100%) con una calificación promedio de 3.7/5. Hay oportunidades de mejora en algunos aspectos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:12:11.551Z",
+    "evaluatedAt": "2025-08-19T01:12:27.881Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
