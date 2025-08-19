@@ -216,5 +216,41 @@
     ],
     "evaluatedAt": "2025-08-19T14:51:20.151Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "Juan2589/act_b1_em1": {
+    "repositoryUrl": "Juan2589/act_b1_em1",
+    "studentName": "Estudiante desconocido",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La implementación es casi completa y funcional. Considera usar excepciones en lugar de `System.out.println` para el manejo de errores en los setters y mantener la consistencia en el tipo de dato del promedio (double)."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La solución es correcta y funcional. Se puede mejorar la validación de los parámetros de entrada en los métodos aplicarDescuento para evitar efectos no deseados (por ejemplo, precios negativos). Considera el uso de excepciones en lugar de System.out.println para el manejo de errores."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "El código cumple con los requisitos de la actividad, pero se podría mejorar la legibilidad separando las secciones de Estudiante y Libro con comentarios. Se recomienda crear las clases `Estudiante` y `Libro` en archivos separados para mejor organización."
+      }
+    ],
+    "overallScore": 4,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.0/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-19T14:58:17.634Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
