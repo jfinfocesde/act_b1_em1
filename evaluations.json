@@ -35,8 +35,8 @@
     "evaluatedAt": "2025-08-19T01:16:22.191Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "TheGhxstCO/act_b1_em1": {
-    "repositoryUrl": "TheGhxstCO/act_b1_em1",
+  "SamuelH1211/act_b1_em1": {
+    "repositoryUrl": "SamuelH1211/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
@@ -44,21 +44,21 @@
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La clase `Estudiante` está incompleta. No se han declarado los atributos, constructor, getters, setters ni el método `mostrarInformacion` como se indica en los comentarios TODO."
+        "feedback": "La clase Estudiante está incompleta. Faltan la declaración de atributos, el constructor, los getters/setters y el método mostrarInformacion. Implementar las validaciones en los setters es crucial."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La solución está incompleta. No se implementaron los atributos, constructores, getters, setters ni los métodos para aplicar descuentos y mostrar información. Falta desarrollar toda la lógica del programa."
+        "feedback": "La clase `Libro` está incompleta. No se han implementado los atributos, constructores ni métodos requeridos, dejando la actividad sin resolver."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 1,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. El archivo `Main.java` solo contiene la estructura base del método `main` y los comentarios TODO, pero no implementa la lógica para crear objetos `Estudiante` y `Libro`, ni para mostrar su información o aplicar descuentos."
+        "feedback": "La actividad no está resuelta. Falta implementar la lógica solicitada dentro del método `main` para crear objetos `Estudiante` y `Libro`, manipularlos y mostrar la información."
       }
     ],
     "overallScore": 1,
@@ -70,7 +70,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-19T01:18:06.348Z",
+    "evaluatedAt": "2025-08-19T01:18:23.112Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
