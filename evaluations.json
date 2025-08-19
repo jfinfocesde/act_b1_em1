@@ -1,0 +1,38 @@
+{
+  "OBrandonC/act_b1_em1": {
+    "repositoryUrl": "OBrandonC/act_b1_em1",
+    "studentName": "Brandon Ciro Ortiz",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La actividad está resuelta correctamente y sigue las buenas prácticas. El código es limpio, legible y cumple con todas las indicaciones, incluyendo la validación en los setters."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es completa y correcta, cumpliendo con todos los requerimientos. El código es legible y bien estructurado, aplicando buenas prácticas como la validación del precio y descuentos."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La actividad se resuelve correctamente y el código es funcional. Sería ideal definir las clases Estudiante y Libro en archivos separados para mejorar la organización."
+      }
+    ],
+    "overallScore": 4.666666666666667,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-19T01:12:11.551Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
+  }
+}
