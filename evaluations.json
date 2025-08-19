@@ -35,42 +35,40 @@
     "evaluatedAt": "2025-08-19T01:16:22.191Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "sagumad/act_b1_em1": {
-    "repositoryUrl": "sagumad/act_b1_em1",
+  "JeritoX10/act_b1_em1": {
+    "repositoryUrl": "JeritoX10/act_b1_em1",
     "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La clase Estudiante solo contiene comentarios TODO, sin ninguna implementación real. Falta la declaración de atributos, constructor, getters, setters y el método mostrarInformacion."
+        "feedback": "La solución es completa y correcta. El código cumple con todas las indicaciones y utiliza buenas prácticas, incluyendo validación en los setters."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La clase Libro no implementa ninguno de los TODOs especificados. Falta la declaración de atributos, constructores, getters, setters y los métodos para aplicar descuentos y mostrar información."
+        "feedback": "La solución es correcta, completa y bien estructurada. Implementa todos los requisitos solicitados de manera eficiente y legible, con validaciones adecuadas en los setters y métodos de descuento."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La actividad no está resuelta. El archivo solo contiene el esqueleto de la clase `Main` y los comentarios `TODO` describiendo la funcionalidad requerida, pero no se ha implementado nada."
+        "feedback": "La solución cumple con todos los requisitos de la actividad y está bien estructurada. El código es claro, legible y funcional."
       }
     ],
-    "overallScore": 1,
+    "overallScore": 5,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Necesita mejorar. Completó 3/3 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:19:49.421Z",
+    "evaluatedAt": "2025-08-19T01:20:05.709Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
