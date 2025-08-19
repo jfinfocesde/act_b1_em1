@@ -35,40 +35,42 @@
     "evaluatedAt": "2025-08-19T01:16:22.191Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "zamu5555/act_b1_em1": {
-    "repositoryUrl": "zamu5555/act_b1_em1",
-    "studentName": "Samuel Diaz Vanegas",
+  "TheGhxstCO/act_b1_em1": {
+    "repositoryUrl": "TheGhxstCO/act_b1_em1",
+    "studentName": "Estudiante desconocido",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución es correcta y cumple con los requisitos. Se podrían mejorar los mensajes de error en los setters para que sean más informativos o lanzar excepciones."
+        "feedback": "La clase `Estudiante` está incompleta. No se han declarado los atributos, constructor, getters, setters ni el método `mostrarInformacion` como se indica en los comentarios TODO."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 4,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Se recomienda validar el porcentaje de descuento en `aplicarDescuento` para evitar valores fuera de rango (0-100) y usar `System.err` para mensajes de error."
+        "feedback": "La solución está incompleta. No se implementaron los atributos, constructores, getters, setters ni los métodos para aplicar descuentos y mostrar información. Falta desarrollar toda la lógica del programa."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 5,
+        "score": 1,
         "fileFound": true,
-        "feedback": "La solución cumple correctamente con todas las indicaciones de la actividad. El código es limpio, bien estructurado y fácil de entender."
+        "feedback": "La actividad no está resuelta. El archivo `Main.java` solo contiene la estructura base del método `main` y los comentarios TODO, pero no implementa la lógica para crear objetos `Estudiante` y `Libro`, ni para mostrar su información o aplicar descuentos."
       }
     ],
-    "overallScore": 4.333333333333333,
+    "overallScore": 1,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Necesita mejorar. Completó 3/3 actividades (100%) con una calificación promedio de 1.0/5. Se recomienda revisar los conceptos fundamentales.",
     "recommendations": [
-      "Continuar con el excelente trabajo y mantener la calidad del código"
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-19T01:17:48.096Z",
+    "evaluatedAt": "2025-08-19T01:18:06.348Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
