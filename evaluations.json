@@ -34,5 +34,43 @@
     ],
     "evaluatedAt": "2025-08-19T01:16:22.191Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
+  },
+  "brandom123155/act_b1_em1": {
+    "repositoryUrl": "brandom123155/act_b1_em1",
+    "studentName": "Estudiante desconocido",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 0,
+        "fileFound": true,
+        "feedback": "La clase Estudiante está incompleta. No se han implementado los atributos, constructor ni métodos getter/setter solicitados."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La clase Libro no tiene ninguna implementación.  Necesitas declarar los atributos, los constructores y los métodos solicitados en los comentarios TODO. Recuerda la importancia de la validación del precio."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 1,
+        "fileFound": true,
+        "feedback": "La actividad no está resuelta. Falta la implementación completa de la lógica solicitada para la creación y manipulación de objetos Estudiante y Libro dentro del método `main`."
+      }
+    ],
+    "overallScore": 0.6666666666666666,
+    "totalActivities": 3,
+    "completedActivities": 2,
+    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 0.7/5. Se recomienda revisar los conceptos fundamentales.",
+    "recommendations": [
+      "Revisar y mejorar las actividades con calificación baja",
+      "Enfocarse en mejorar la documentación y comentarios del código",
+      "Aplicar mejores prácticas de programación"
+    ],
+    "evaluatedAt": "2025-08-19T01:16:39.305Z",
+    "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
