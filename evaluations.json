@@ -1,40 +1,38 @@
 {
-  "Cristiandu12/act_b1_em1": {
-    "repositoryUrl": "Cristiandu12/act_b1_em1",
-    "studentName": "Estudiante desconocido",
+  "SantiagoCalderon11/act_b1_em1": {
+    "repositoryUrl": "SantiagoCalderon11/act_b1_em1",
+    "studentName": "Santiago  Calderon Hernandez",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 0,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El estudiante no ha implementado ninguna parte del código. Necesita declarar atributos, constructor, getters, setters y el método mostrarInformacion según las indicaciones."
+        "feedback": "La solución es completa y correcta. El código es limpio y cumple con todas las indicaciones, incluyendo las validaciones en los setters."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 0,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La clase `Libro.java` está vacía. No se han implementado los atributos, constructores ni métodos requeridos en los comentarios TODO."
+        "feedback": "La solución es completa y correcta. El código está bien estructurado, es legible y aplica buenas prácticas, incluyendo validación en el setter de precio y manejo adecuado de los descuentos."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 1,
+        "score": 5,
         "fileFound": true,
-        "feedback": "El archivo Main.java solo contiene la estructura base y los comentarios TODO. No se implementa ninguna de las funcionalidades solicitadas en la descripción de la actividad."
+        "feedback": "La actividad se completa satisfactoriamente, cumpliendo con todos los requisitos y mostrando un código limpio y bien estructurado. El uso de constructores y métodos es el correcto."
       }
     ],
-    "overallScore": 0.3333333333333333,
+    "overallScore": 5,
     "totalActivities": 3,
-    "completedActivities": 1,
-    "summary": "Necesita mejorar. Completó 1/3 actividades (33%) con una calificación promedio de 0.3/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:14:05.927Z",
+    "evaluatedAt": "2025-08-19T01:14:22.054Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
