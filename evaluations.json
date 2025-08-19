@@ -1,38 +1,38 @@
 {
-  "killmyselff/act_b1_em1": {
-    "repositoryUrl": "killmyselff/act_b1_em1",
-    "studentName": "Juan Diego Cano Galeano",
+  "tatojn/act_b1_em1": {
+    "repositoryUrl": "tatojn/act_b1_em1",
+    "studentName": "Tatiana Julio Negrete",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. Cumple con todos los requisitos especificados en los comentarios, incluyendo validaciones en setters y la implementación del método mostrarInformacion."
+        "feedback": "La solución es correcta y completa, implementando todos los requisitos. Considera formatear el promedio en `mostrarInformacion` y corregir el símbolo '$' que es incorrecto."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución cumple con todos los requisitos de la actividad. El código es limpio, bien estructurado y sigue las buenas prácticas de programación, incluyendo validaciones de entrada."
+        "feedback": "La solución es correcta y funcional. Se recomienda corregir el nombre del setter `setNombre` a `setTitulo` para mantener la consistencia con el atributo y mejorar la legibilidad del código."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 4,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La actividad se resuelve correctamente y cumple con los requisitos. Sería bueno agregar manejo de errores y validaciones en las clases Estudiante y Libro para mejorar la robustez del código."
+        "feedback": "La actividad se completa correctamente y cumple con todas las indicaciones. El código es limpio y funcional."
       }
     ],
-    "overallScore": 4.666666666666667,
+    "overallScore": 4.333333333333333,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:15:13.612Z",
+    "evaluatedAt": "2025-08-19T01:15:30.005Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
