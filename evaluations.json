@@ -252,5 +252,41 @@
     ],
     "evaluatedAt": "2025-08-19T14:58:17.634Z",
     "evaluatedBy": "Sistema de Evaluación"
+  },
+  "SantiagoZVcesde/act_b1_em1": {
+    "repositoryUrl": "SantiagoZVcesde/act_b1_em1",
+    "studentName": "Santiago Zapata Villada",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es completa y correcta. El código es limpio y bien estructurado, cumpliendo con todas las indicaciones incluyendo las validaciones en los setters. Excelente trabajo."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "Excelente solución. El código cumple con todos los requisitos, incluyendo validación del precio y las dos versiones del método `aplicarDescuento`. Bien hecho."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Main.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución cumple con todos los requisitos de la actividad, creando objetos, mostrando información y aplicando descuentos correctamente. El código es claro y bien estructurado."
+      }
+    ],
+    "overallScore": 5,
+    "totalActivities": 3,
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "recommendations": [
+      "Continuar con el excelente trabajo y mantener la calidad del código"
+    ],
+    "evaluatedAt": "2025-08-19T15:27:25.354Z",
+    "evaluatedBy": "Sistema de Evaluación"
   }
 }
