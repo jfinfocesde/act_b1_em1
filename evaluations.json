@@ -1,41 +1,38 @@
 {
-  "amgallego/act_b1_em1": {
-    "repositoryUrl": "amgallego/act_b1_em1",
-    "studentName": "sharon saray asprilla cordoba",
+  "killmyselff/act_b1_em1": {
+    "repositoryUrl": "killmyselff/act_b1_em1",
+    "studentName": "Juan Diego Cano Galeano",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 3,
+        "score": 5,
         "fileFound": true,
-        "feedback": "La implementación de getters y setters es correcta, pero hay errores en la lógica de validación de los setters de edad y promedio. Además, el nombre del setter de edad tiene un error de escritura (seteEdad). "
+        "feedback": "La solución es completa y correcta. Cumple con todos los requisitos especificados en los comentarios, incluyendo validaciones en setters y la implementación del método mostrarInformacion."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 2,
+        "score": 5,
         "fileFound": true,
-        "feedback": "Hay errores en la implementación de los constructores y el setter del precio. Los constructores no están inicializando los atributos correctamente, y la validación del precio en el setter es incorrecta (debería verificar si es negativo, no positivo o cero)."
+        "feedback": "La solución cumple con todos los requisitos de la actividad. El código es limpio, bien estructurado y sigue las buenas prácticas de programación, incluyendo validaciones de entrada."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
-        "score": 0,
-        "fileFound": false,
-        "feedback": "Error al evaluar: got status: 503 . {\"error\":{\"code\":503,\"message\":\"The model is overloaded. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+        "score": 4,
+        "fileFound": true,
+        "feedback": "La actividad se resuelve correctamente y cumple con los requisitos. Sería bueno agregar manejo de errores y validaciones en las clases Estudiante y Libro para mejorar la robustez del código."
       }
     ],
-    "overallScore": 1.6666666666666667,
+    "overallScore": 4.666666666666667,
     "totalActivities": 3,
-    "completedActivities": 2,
-    "summary": "Necesita mejorar. Completó 2/3 actividades (67%) con una calificación promedio de 1.7/5. Se recomienda revisar los conceptos fundamentales.",
+    "completedActivities": 3,
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.7/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
-      "Completar los archivos faltantes: src/main/java/com/example/Main.java",
-      "Revisar y mejorar las actividades con calificación baja",
-      "Enfocarse en mejorar la documentación y comentarios del código",
-      "Aplicar mejores prácticas de programación"
+      "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:14:55.568Z",
+    "evaluatedAt": "2025-08-19T01:15:13.612Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
