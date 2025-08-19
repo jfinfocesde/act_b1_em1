@@ -35,40 +35,40 @@
     "evaluatedAt": "2025-08-19T01:16:22.191Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   },
-  "Manin611/act_b1_em1": {
-    "repositoryUrl": "Manin611/act_b1_em1",
-    "studentName": "Samuel Ceballos Gonzalez",
+  "zamu5555/act_b1_em1": {
+    "repositoryUrl": "zamu5555/act_b1_em1",
+    "studentName": "Samuel Diaz Vanegas",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y completa. El código es limpio, bien estructurado y cumple con las validaciones solicitadas en los setters."
+        "feedback": "La solución es correcta y cumple con los requisitos. Se podrían mejorar los mensajes de error en los setters para que sean más informativos o lanzar excepciones."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código cumple con todas las especificaciones y buenas prácticas. Buen trabajo con la validación de datos en los constructores y setters."
+        "feedback": "La solución es correcta y funcional. Se recomienda validar el porcentaje de descuento en `aplicarDescuento` para evitar valores fuera de rango (0-100) y usar `System.err` para mensajes de error."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La actividad se completa correctamente, cumpliendo con todos los requisitos. El código es legible y bien estructurado, demostrando un buen entendimiento de los conceptos."
+        "feedback": "La solución cumple correctamente con todas las indicaciones de la actividad. El código es limpio, bien estructurado y fácil de entender."
       }
     ],
-    "overallScore": 5,
+    "overallScore": 4.333333333333333,
     "totalActivities": 3,
     "completedActivities": 3,
-    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 5.0/5. Demuestra buen dominio de los conceptos.",
+    "summary": "Excelente trabajo. Completó 3/3 actividades (100%) con una calificación promedio de 4.3/5. Demuestra buen dominio de los conceptos.",
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:17:30.988Z",
+    "evaluatedAt": "2025-08-19T01:17:48.096Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
