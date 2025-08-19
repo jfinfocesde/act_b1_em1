@@ -1,28 +1,28 @@
 {
-  "SantiagoCalderon11/act_b1_em1": {
-    "repositoryUrl": "SantiagoCalderon11/act_b1_em1",
-    "studentName": "Santiago  Calderon Hernandez",
+  "Sebas-1013/act_b1_em1": {
+    "repositoryUrl": "Sebas-1013/act_b1_em1",
+    "studentName": "Sebastian Hernandez Martinez",
     "activities": [
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Estudiante.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código es limpio y cumple con todas las indicaciones, incluyendo las validaciones en los setters."
+        "feedback": "La solución es correcta y completa. El código cumple con todos los requisitos especificados, incluyendo las validaciones en los setters de edad y promedio."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Libro.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es completa y correcta. El código está bien estructurado, es legible y aplica buenas prácticas, incluyendo validación en el setter de precio y manejo adecuado de los descuentos."
+        "feedback": "Excelente solución. Cumple con todos los requerimientos, el código es limpio y bien estructurado. Muy buen trabajo."
       },
       {
         "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
         "solutionFile": "src/main/java/com/example/Main.java",
         "score": 5,
         "fileFound": true,
-        "feedback": "La actividad se completa satisfactoriamente, cumpliendo con todos los requisitos y mostrando un código limpio y bien estructurado. El uso de constructores y métodos es el correcto."
+        "feedback": "Excelente solución. El código cumple con todos los requisitos, es claro y bien estructurado. Se usan setters y constructores adecuadamente, demostrando comprensión de los conceptos."
       }
     ],
     "overallScore": 5,
@@ -32,7 +32,7 @@
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-19T01:14:22.054Z",
+    "evaluatedAt": "2025-08-19T01:14:39.042Z",
     "evaluatedBy": "Sistema de Evaluación Masiva"
   }
 }
